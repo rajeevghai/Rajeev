@@ -1,0 +1,1108 @@
+Student_ID,First_Name,Last_Name,Gender,Date_of_Birth,Email,Phone_Number,Department,Enrollment_Date,GPA_10_Point_Scale
+STU00001,Rohan,Sharma,Male,2000-06-29,rohan.sharma.00001@student.example.edu,6599310825,Biotechnology,2023-04-03,8.68
+STU00002,Kabir,Kulkarni,Female,1995-09-02,kabir.kulkarni.00002@student.example.edu,6939042955,Commerce,2022-07-11,6.16
+STU00003,Vivaan,Chopra,Female,2007-03-23,vivaan.chopra.00003@student.example.edu,6946785248,Civil Engineering,2025-05-25,7.25
+STU00004,Aarav,Agarwal,Male,2004-06-24,aarav.agarwal.00004@student.example.edu,7193448329,Business Administration,2023-11-28,5.78
+STU00005,Reyansh,Gupta,Female,2003-01-19,reyansh.gupta.00005@student.example.edu,7477278577,Computer Science,2026-10-02,8.02
+STU00006,Yash,Chopra,Female,2003-06-28,yash.chopra.00006@student.example.edu,8370996465,Commerce,2022-06-11,6.47
+STU00007,Riya,Kulkarni,Female,1996-07-23,riya.kulkarni.00007@student.example.edu,8840104345,Civil Engineering,2022-04-04,6.14
+STU00008,Kabir,Jain,Female,1997-04-07,kabir.jain.00008@student.example.edu,7193887545,Business Administration,2024-02-18,7.27
+STU00009,Aadhya,Reddy,Female,2000-12-27,aadhya.reddy.00009@student.example.edu,8935814872,Commerce,2025-12-08,8.24
+STU00010,Aadhya,Chopra,Male,1998-08-31,aadhya.chopra.00010@student.example.edu,7629748727,Biotechnology,2024-08-04,6.35
+STU00011,Kavya,Sinha,Female,1996-04-03,kavya.sinha.00011@student.example.edu,9529615275,Business Administration,2023-04-15,5.16
+STU00012,Maya,Singh,Female,2007-09-21,maya.singh.00012@student.example.edu,7351531223,Physics,2026-09-25,6.06
+STU00013,Maya,Thomas,Male,2005-04-16,maya.thomas.00013@student.example.edu,7137651678,Biotechnology,2023-02-02,5.7
+STU00014,Ishita,Singh,Male,2004-08-10,ishita.singh.00014@student.example.edu,7715412119,Electronics,2025-04-10,6.81
+STU00015,Manav,Mishra,Female,1996-01-21,manav.mishra.00015@student.example.edu,6470939445,Electronics,2026-10-30,5.76
+STU00016,Varun,Menon,Female,2003-07-24,varun.menon.00016@student.example.edu,8010258946,Biotechnology,2025-05-05,7.65
+STU00017,Aarav,Sinha,Male,2007-01-16,aarav.sinha.00017@student.example.edu,9301106403,Information Technology,2025-07-15,8.2
+STU00018,Neha,Malhotra,Female,1995-01-27,neha.malhotra.00018@student.example.edu,9761759725,Biotechnology,2026-01-18,8.6
+STU00019,Ira,Bansal,Male,2001-09-10,ira.bansal.00019@student.example.edu,8744267175,Mechanical Engineering,2026-09-20,7.54
+STU00020,Diya,Reddy,Male,2007-02-05,diya.reddy.00020@student.example.edu,9344175247,Computer Science,2026-10-08,9.61
+STU00021,Anika,Khan,Female,1997-07-05,anika.khan.00021@student.example.edu,9774081712,Civil Engineering,2024-01-14,9.93
+STU00022,Priya,Verma,Female,2007-09-22,priya.verma.00022@student.example.edu,6367878761,Information Technology,2024-12-10,8.66
+STU00023,Ishita,Agarwal,Female,2005-08-29,ishita.agarwal.00023@student.example.edu,6709214891,Commerce,2025-09-27,6.33
+STU00024,Varun,Iyer,Male,1999-07-06,varun.iyer.00024@student.example.edu,7338811290,Business Administration,2025-12-31,6.99
+STU00025,Tara,Thomas,Male,1997-09-18,tara.thomas.00025@student.example.edu,6965067727,Computer Science,2023-05-23,5.32
+STU00026,Dhruv,Chopra,Female,1999-12-10,dhruv.chopra.00026@student.example.edu,6304912982,Computer Science,2022-01-15,8.54
+STU00027,Kavya,Gupta,Male,2002-05-30,kavya.gupta.00027@student.example.edu,8208283728,Physics,2022-05-26,6.19
+STU00028,Saanvi,Chopra,Female,2007-10-22,saanvi.chopra.00028@student.example.edu,8030106617,Physics,2026-06-03,6.21
+STU00029,Simran,Iyer,Female,2004-09-01,simran.iyer.00029@student.example.edu,7819256337,Computer Science,2023-12-27,7.06
+STU00030,Reyansh,Verma,Female,2002-08-11,reyansh.verma.00030@student.example.edu,9700855390,Mechanical Engineering,2026-06-28,5.55
+STU00031,Meera,Chopra,Female,2004-06-18,meera.chopra.00031@student.example.edu,7196342297,Information Technology,2023-01-11,7.31
+STU00032,Tara,Chauhan,Male,2007-05-06,tara.chauhan.00032@student.example.edu,6217275224,Biotechnology,2024-08-13,8.26
+STU00033,Aarav,Gupta,Male,2000-04-20,aarav.gupta.00033@student.example.edu,7745535098,Mechanical Engineering,2022-12-07,7.43
+STU00034,Maya,Thomas,Female,2003-07-02,maya.thomas.00034@student.example.edu,7676848676,Physics,2022-01-05,6.33
+STU00035,Neha,Malhotra,Male,2007-06-19,neha.malhotra.00035@student.example.edu,9085540042,Mechanical Engineering,2026-04-26,7.43
+STU00036,Neha,Iyer,Male,2007-12-28,neha.iyer.00036@student.example.edu,6261810763,Computer Science,2026-07-05,8.74
+STU00037,Arjun,Kulkarni,Female,2006-11-29,arjun.kulkarni.00037@student.example.edu,6244295904,Information Technology,2024-10-16,9.8
+STU00038,Ira,Gupta,Male,2000-04-10,ira.gupta.00038@student.example.edu,6514909066,Commerce,2024-04-06,9.71
+STU00039,Priya,Kulkarni,Male,1996-11-02,priya.kulkarni.00039@student.example.edu,8823396242,Biotechnology,2024-05-08,7.92
+STU00040,Amit,Bhatia,Female,2002-01-17,amit.bhatia.00040@student.example.edu,7140805649,Civil Engineering,2023-05-04,6.98
+STU00041,Yash,Khan,Male,1996-08-17,yash.khan.00041@student.example.edu,7968321319,Commerce,2022-01-20,8.11
+STU00042,Reyansh,Gupta,Male,2006-05-07,reyansh.gupta.00042@student.example.edu,6568896616,Information Technology,2024-10-31,9.67
+STU00043,Priya,Reddy,Female,2004-10-29,priya.reddy.00043@student.example.edu,8333103372,Commerce,2026-09-04,8.52
+STU00044,Sakshi,Sharma,Male,2007-06-10,sakshi.sharma.00044@student.example.edu,8849232839,Electronics,2025-04-11,5.52
+STU00045,Rahul,Mehta,Male,2007-05-30,rahul.mehta.00045@student.example.edu,7169726681,Mechanical Engineering,2024-11-04,6.41
+STU00046,Sneha,Iyer,Male,2000-12-02,sneha.iyer.00046@student.example.edu,8098228320,Computer Science,2024-11-01,6.26
+STU00047,Kabir,Saxena,Female,2001-03-16,kabir.saxena.00047@student.example.edu,6015228622,Electronics,2022-04-01,6.67
+STU00048,Rahul,Nair,Male,2007-05-17,rahul.nair.00048@student.example.edu,7836901321,Information Technology,2026-05-08,7.8
+STU00049,Ishaan,Thomas,Male,1998-05-06,ishaan.thomas.00049@student.example.edu,6154739678,Commerce,2025-01-22,9.17
+STU00050,Arnav,Rao,Female,1995-12-09,arnav.rao.00050@student.example.edu,7566166314,Computer Science,2023-09-24,9.49
+STU00051,Nikhil,Iyer,Male,1997-04-22,nikhil.iyer.00051@student.example.edu,9350573756,Mathematics,2023-12-26,7.8
+STU00052,Krish,Ghosh,Female,2000-04-23,krish.ghosh.00052@student.example.edu,6697939765,Electronics,2026-11-06,9.88
+STU00053,Simran,Sharma,Female,2002-06-14,simran.sharma.00053@student.example.edu,9997823785,Mechanical Engineering,2026-05-22,7.06
+STU00054,Karan,Nair,Male,1997-06-04,karan.nair.00054@student.example.edu,9745927824,Physics,2024-02-23,5.19
+STU00055,Kavya,Iyer,Male,2005-04-28,kavya.iyer.00055@student.example.edu,7310784794,Mechanical Engineering,2024-04-13,9.1
+STU00056,Kavya,Sharma,Male,2003-12-09,kavya.sharma.00056@student.example.edu,7196591018,Civil Engineering,2023-11-04,9.32
+STU00057,Nikhil,Saxena,Male,2007-01-10,nikhil.saxena.00057@student.example.edu,6118543408,Civil Engineering,2025-11-18,5.58
+STU00058,Ira,Kulkarni,Male,2000-12-14,ira.kulkarni.00058@student.example.edu,6465585404,Business Administration,2022-03-20,7.98
+STU00059,Amit,Malhotra,Male,2006-06-21,amit.malhotra.00059@student.example.edu,7654401763,Mechanical Engineering,2024-02-12,9.5
+STU00060,Rahul,Verma,Male,1995-01-14,rahul.verma.00060@student.example.edu,9975315062,Mechanical Engineering,2024-11-30,9.03
+STU00061,Riya,Malhotra,Female,2002-05-28,riya.malhotra.00061@student.example.edu,7348257414,Information Technology,2025-06-30,8.32
+STU00062,Pooja,Bansal,Female,2004-02-28,pooja.bansal.00062@student.example.edu,7728296502,Biotechnology,2023-10-31,8.49
+STU00063,Ananya,Iyer,Female,2003-07-03,ananya.iyer.00063@student.example.edu,9213213454,Commerce,2025-10-19,9.51
+STU00064,Naina,Patel,Female,1995-01-04,naina.patel.00064@student.example.edu,7232285036,Commerce,2023-09-15,6.05
+STU00065,Anika,Saxena,Female,2004-11-28,anika.saxena.00065@student.example.edu,8901796894,Physics,2024-06-24,6.07
+STU00066,Aadhya,Sinha,Female,2006-07-24,aadhya.sinha.00066@student.example.edu,6401094954,Mechanical Engineering,2025-06-09,9.09
+STU00067,Pooja,Kapoor,Male,1998-04-22,pooja.kapoor.00067@student.example.edu,6198486416,Physics,2022-02-20,6.22
+STU00068,Krish,Jain,Male,2005-03-19,krish.jain.00068@student.example.edu,9805929053,Mechanical Engineering,2024-07-14,8.15
+STU00069,Dev,Mishra,Female,1998-04-23,dev.mishra.00069@student.example.edu,8953315788,Information Technology,2025-09-05,5.03
+STU00070,Varun,Kapoor,Female,2006-08-14,varun.kapoor.00070@student.example.edu,6215686308,Information Technology,2026-03-22,7.79
+STU00071,Yash,Rao,Male,2006-11-30,yash.rao.00071@student.example.edu,9243774098,Commerce,2025-09-09,9.46
+STU00072,Manav,Malhotra,Male,2007-04-16,manav.malhotra.00072@student.example.edu,9853479481,Physics,2025-07-15,5.8
+STU00073,Tara,Singh,Male,2001-03-21,tara.singh.00073@student.example.edu,9340087993,Mechanical Engineering,2026-04-18,7.61
+STU00074,Karan,Das,Female,2001-05-29,karan.das.00074@student.example.edu,7167007513,Biotechnology,2023-04-26,6.68
+STU00075,Kabir,Rao,Female,2003-08-04,kabir.rao.00075@student.example.edu,6656293602,Information Technology,2025-11-22,8.53
+STU00076,Simran,Malhotra,Female,2005-06-13,simran.malhotra.00076@student.example.edu,6267429212,Mathematics,2024-10-11,6.03
+STU00077,Dev,Thomas,Male,1995-06-10,dev.thomas.00077@student.example.edu,9782391589,Mathematics,2026-10-21,8.83
+STU00078,Aisha,Sharma,Male,2001-09-12,aisha.sharma.00078@student.example.edu,7674979897,Mathematics,2026-03-24,9.27
+STU00079,Ishita,Ghosh,Male,2008-07-12,ishita.ghosh.00079@student.example.edu,6947206476,Civil Engineering,2026-10-14,7.44
+STU00080,Varun,Mishra,Female,2002-07-16,varun.mishra.00080@student.example.edu,8916892179,Electronics,2025-10-01,8.99
+STU00081,Yash,Bhatia,Female,2006-12-24,yash.bhatia.00081@student.example.edu,9895229819,Commerce,2024-02-17,6.97
+STU00082,Vivaan,Gupta,Male,1998-01-16,vivaan.gupta.00082@student.example.edu,7982979741,Civil Engineering,2026-11-11,5.91
+STU00083,Dev,Khan,Female,2002-05-01,dev.khan.00083@student.example.edu,9269456693,Civil Engineering,2023-11-23,9.4
+STU00084,Simran,Singh,Male,2005-07-19,simran.singh.00084@student.example.edu,9217034696,Business Administration,2022-08-27,7.7
+STU00085,Kavya,Saxena,Female,1995-11-26,kavya.saxena.00085@student.example.edu,6133272825,Mechanical Engineering,2026-03-25,9.75
+STU00086,Vivaan,Menon,Female,1997-10-31,vivaan.menon.00086@student.example.edu,8875303857,Mechanical Engineering,2024-08-27,5.57
+STU00087,Yash,Pillai,Female,2003-04-10,yash.pillai.00087@student.example.edu,8602289301,Information Technology,2022-12-10,8.04
+STU00088,Aadhya,Patel,Female,1995-07-30,aadhya.patel.00088@student.example.edu,8473028098,Mathematics,2023-10-01,8.39
+STU00089,Maya,Pillai,Female,2008-04-12,maya.pillai.00089@student.example.edu,6437662764,Civil Engineering,2025-12-16,8.49
+STU00090,Anika,Chauhan,Female,2007-09-11,anika.chauhan.00090@student.example.edu,7491228808,Business Administration,2024-10-22,7.66
+STU00091,Ishaan,Bansal,Male,1995-04-14,ishaan.bansal.00091@student.example.edu,7804138557,Information Technology,2026-10-06,9.11
+STU00092,Varun,Reddy,Male,2005-04-24,varun.reddy.00092@student.example.edu,6657091982,Biotechnology,2026-04-11,7.18
+STU00093,Karan,Menon,Male,2007-01-26,karan.menon.00093@student.example.edu,7996617659,Commerce,2026-10-12,7.18
+STU00094,Karan,Khan,Male,1996-12-10,karan.khan.00094@student.example.edu,9786577118,Physics,2023-07-26,7.25
+STU00095,Naina,Menon,Male,2002-07-18,naina.menon.00095@student.example.edu,8123030247,Electronics,2022-02-28,9.25
+STU00096,Zoya,Iyer,Female,2000-10-17,zoya.iyer.00096@student.example.edu,7201124041,Civil Engineering,2023-11-29,9.4
+STU00097,Arnav,Sharma,Male,1999-04-15,arnav.sharma.00097@student.example.edu,7036616336,Physics,2022-06-25,8.6
+STU00098,Arnav,Agarwal,Female,2005-09-05,arnav.agarwal.00098@student.example.edu,9057339843,Computer Science,2026-04-19,7.45
+STU00099,Kabir,Patel,Female,2000-06-16,kabir.patel.00099@student.example.edu,8851686578,Physics,2023-09-20,7.91
+STU00100,Arnav,Bansal,Female,2007-05-06,arnav.bansal.00100@student.example.edu,7511014697,Civil Engineering,2025-04-08,8.51
+STU00101,Pooja,Singh,Female,1999-04-27,pooja.singh.00101@student.example.edu,6513483708,Electronics,2023-10-09,8.71
+STU00102,Meera,Iyer,Male,2001-03-15,meera.iyer.00102@student.example.edu,8532256470,Biotechnology,2026-01-23,9.88
+STU00103,Anika,Patel,Other,1999-05-10,anika.patel.00103@student.example.edu,6977032766,Civil Engineering,2023-08-30,6.8
+STU00104,Aarav,Pillai,Male,2001-02-25,aarav.pillai.00104@student.example.edu,6234187462,Electronics,2022-04-04,7.77
+STU00105,Zoya,Mehta,Male,2007-11-16,zoya.mehta.00105@student.example.edu,8016044512,Business Administration,2025-09-02,7.39
+STU00106,Ira,Verma,Female,2005-09-18,ira.verma.00106@student.example.edu,9530959836,Physics,2023-05-09,5.33
+STU00107,Ishaan,Kulkarni,Male,1996-03-15,ishaan.kulkarni.00107@student.example.edu,6640798731,Civil Engineering,2022-11-07,9.06
+STU00108,Kabir,Kapoor,Female,2004-05-02,kabir.kapoor.00108@student.example.edu,8560345306,Mechanical Engineering,2025-05-26,8.95
+STU00109,Sakshi,Joshi,Female,2004-12-05,sakshi.joshi.00109@student.example.edu,9694387705,Mathematics,2023-09-01,7.94
+STU00110,Pooja,Kulkarni,Male,2008-09-03,pooja.kulkarni.00110@student.example.edu,6426204934,Mechanical Engineering,2026-09-16,9.74
+STU00111,Saanvi,Singh,Male,1998-07-10,saanvi.singh.00111@student.example.edu,6746523513,Electronics,2023-05-07,7.76
+STU00112,Aarav,Malhotra,Female,2008-04-26,aarav.malhotra.00112@student.example.edu,7250949136,Civil Engineering,2026-08-20,5.16
+STU00113,Neha,Pillai,Male,1996-08-06,neha.pillai.00113@student.example.edu,7002547591,Commerce,2025-11-08,9.62
+STU00114,Meera,Malhotra,Female,2000-01-16,meera.malhotra.00114@student.example.edu,6639904576,Electronics,2025-08-19,9.54
+STU00115,Ishaan,Verma,Female,2001-11-24,ishaan.verma.00115@student.example.edu,9216748927,Civil Engineering,2025-05-03,9.12
+STU00116,Tara,Mehta,Female,2001-10-27,tara.mehta.00116@student.example.edu,7728760924,Biotechnology,2025-12-04,9.71
+STU00117,Ishita,Mishra,Female,2008-05-31,ishita.mishra.00117@student.example.edu,9820042236,Business Administration,2025-07-10,7.16
+STU00118,Anika,Singh,Female,2000-02-19,anika.singh.00118@student.example.edu,9590414903,Commerce,2025-10-12,9.3
+STU00119,Vivaan,Agarwal,Male,2001-01-16,vivaan.agarwal.00119@student.example.edu,6172793727,Electronics,2025-03-26,8.82
+STU00120,Aisha,Bansal,Male,2001-03-28,aisha.bansal.00120@student.example.edu,8513971584,Physics,2023-01-07,7.18
+STU00121,Kabir,Mishra,Female,2002-06-23,kabir.mishra.00121@student.example.edu,8878201524,Electronics,2023-10-20,5.52
+STU00122,Sneha,Malhotra,Male,2001-06-19,sneha.malhotra.00122@student.example.edu,7719929315,Biotechnology,2025-09-18,9.07
+STU00123,Aditya,Das,Female,2000-08-29,aditya.das.00123@student.example.edu,6497879474,Mathematics,2023-10-25,9.85
+STU00124,Manav,Desai,Other,2007-03-03,manav.desai.00124@student.example.edu,7774884818,Biotechnology,2025-06-18,5.27
+STU00125,Riya,Menon,Male,2004-11-30,riya.menon.00125@student.example.edu,6221670908,Biotechnology,2026-04-06,6.02
+STU00126,Ananya,Bhatia,Female,2005-11-14,ananya.bhatia.00126@student.example.edu,6123993296,Commerce,2023-07-20,9.87
+STU00127,Priya,Pillai,Female,2007-05-10,priya.pillai.00127@student.example.edu,8371901750,Mechanical Engineering,2024-05-23,7.04
+STU00128,Rohan,Das,Male,1998-06-15,rohan.das.00128@student.example.edu,9077787850,Civil Engineering,2024-10-17,6.46
+STU00129,Simran,Desai,Female,2005-08-04,simran.desai.00129@student.example.edu,7961882949,Mathematics,2023-12-16,7.76
+STU00130,Meera,Bhatia,Male,1998-01-23,meera.bhatia.00130@student.example.edu,6299832023,Mathematics,2026-11-05,6.38
+STU00131,Sneha,Bhatia,Male,2000-12-28,sneha.bhatia.00131@student.example.edu,6011017705,Civil Engineering,2026-08-08,6.41
+STU00132,Dhruv,Kulkarni,Other,2005-12-25,dhruv.kulkarni.00132@student.example.edu,7917906456,Business Administration,2023-10-25,7.69
+STU00133,Sneha,Chopra,Male,2003-06-18,sneha.chopra.00133@student.example.edu,7382023198,Mechanical Engineering,2024-07-21,9.35
+STU00134,Naina,Joshi,Female,2004-03-19,naina.joshi.00134@student.example.edu,7366556920,Mathematics,2022-03-31,8.72
+STU00135,Dev,Sinha,Male,1998-05-31,dev.sinha.00135@student.example.edu,6158998032,Commerce,2024-10-11,5.63
+STU00136,Sneha,Jain,Female,2004-11-15,sneha.jain.00136@student.example.edu,8258942692,Computer Science,2022-07-24,9.55
+STU00137,Diya,Malhotra,Male,1998-06-18,diya.malhotra.00137@student.example.edu,8016446768,Civil Engineering,2022-06-03,8.91
+STU00138,Sneha,Menon,Male,1996-10-19,sneha.menon.00138@student.example.edu,7411178445,Biotechnology,2026-10-11,9.26
+STU00139,Dev,Khan,Male,2005-12-11,dev.khan.00139@student.example.edu,6154185462,Mechanical Engineering,2025-12-23,8.09
+STU00140,Neha,Kapoor,Male,2004-09-25,neha.kapoor.00140@student.example.edu,9265762953,Information Technology,2022-07-21,8.17
+STU00141,Tara,Nair,Male,1995-08-26,tara.nair.00141@student.example.edu,7393178591,Civil Engineering,2022-04-05,8.98
+STU00142,Nikhil,Reddy,Female,2000-06-23,nikhil.reddy.00142@student.example.edu,7769748771,Electronics,2024-12-23,7.83
+STU00143,Aadhya,Nair,Female,2003-07-31,aadhya.nair.00143@student.example.edu,8934040683,Commerce,2025-06-23,6.2
+STU00144,Diya,Kapoor,Female,2000-09-11,diya.kapoor.00144@student.example.edu,7096619850,Physics,2024-07-30,8.33
+STU00145,Neha,Sinha,Male,1996-08-28,neha.sinha.00145@student.example.edu,7484193033,Civil Engineering,2024-06-23,9.94
+STU00146,Varun,Pillai,Female,2001-10-10,varun.pillai.00146@student.example.edu,7652244897,Information Technology,2023-02-12,9.27
+STU00147,Priya,Joshi,Male,2007-11-22,priya.joshi.00147@student.example.edu,9003380792,Mathematics,2025-09-19,6.48
+STU00148,Karan,Sharma,Male,1996-02-06,karan.sharma.00148@student.example.edu,9200490039,Civil Engineering,2025-05-26,7.48
+STU00149,Kavya,Menon,Male,1999-11-30,kavya.menon.00149@student.example.edu,6816610683,Electronics,2025-07-27,8.1
+STU00150,Reyansh,Thomas,Male,1995-11-19,reyansh.thomas.00150@student.example.edu,9387056244,Commerce,2023-09-25,7.2
+STU00151,Riya,Ghosh,Female,2001-08-14,riya.ghosh.00151@student.example.edu,9210405862,Mechanical Engineering,2023-11-01,7.08
+STU00152,Ananya,Chauhan,Male,2003-03-17,ananya.chauhan.00152@student.example.edu,8155192095,Electronics,2024-12-23,9.57
+STU00153,Rahul,Bhatia,Male,2005-10-22,rahul.bhatia.00153@student.example.edu,9206447974,Information Technology,2024-06-17,9.35
+STU00154,Yash,Gupta,Female,2000-01-23,yash.gupta.00154@student.example.edu,8904788278,Mathematics,2026-10-28,8.62
+STU00155,Arnav,Reddy,Female,2003-11-07,arnav.reddy.00155@student.example.edu,7135840948,Physics,2022-01-29,7.68
+STU00156,Riya,Sinha,Male,2000-11-17,riya.sinha.00156@student.example.edu,7636492037,Business Administration,2025-04-12,9.11
+STU00157,Reyansh,Sinha,Female,1995-07-25,reyansh.sinha.00157@student.example.edu,9797759723,Business Administration,2025-06-22,9.72
+STU00158,Krish,Kapoor,Male,2005-05-31,krish.kapoor.00158@student.example.edu,7297896903,Information Technology,2026-05-05,8.25
+STU00159,Ananya,Verma,Male,2001-10-29,ananya.verma.00159@student.example.edu,6498733671,Biotechnology,2024-10-05,5.49
+STU00160,Ananya,Joshi,Female,2007-02-12,ananya.joshi.00160@student.example.edu,8522607583,Electronics,2025-04-16,8.71
+STU00161,Simran,Saxena,Female,2005-12-22,simran.saxena.00161@student.example.edu,7752844368,Civil Engineering,2026-06-04,9.7
+STU00162,Aditya,Pillai,Female,2004-12-11,aditya.pillai.00162@student.example.edu,7014096062,Information Technology,2024-06-29,9.28
+STU00163,Riya,Chopra,Male,2003-01-17,riya.chopra.00163@student.example.edu,7709996749,Information Technology,2022-05-05,6.38
+STU00164,Yash,Gupta,Male,2008-05-23,yash.gupta.00164@student.example.edu,6217233051,Mechanical Engineering,2025-06-13,8.93
+STU00165,Ananya,Chauhan,Male,1996-07-16,ananya.chauhan.00165@student.example.edu,9286325893,Commerce,2026-08-27,7.77
+STU00166,Saanvi,Desai,Male,2002-05-15,saanvi.desai.00166@student.example.edu,6633740357,Commerce,2026-05-05,8.94
+STU00167,Aarav,Singh,Male,1998-03-31,aarav.singh.00167@student.example.edu,8320207740,Electronics,2022-09-24,6.25
+STU00168,Rohan,Sinha,Male,1997-12-15,rohan.sinha.00168@student.example.edu,7538638860,Mechanical Engineering,2022-01-31,8.95
+STU00169,Dhruv,Khan,Female,2000-12-13,dhruv.khan.00169@student.example.edu,6544423789,Biotechnology,2022-04-18,8.71
+STU00170,Rohan,Ghosh,Female,2005-01-20,rohan.ghosh.00170@student.example.edu,7554945552,Information Technology,2026-06-01,7.57
+STU00171,Tara,Bansal,Female,2008-10-17,tara.bansal.00171@student.example.edu,9123484878,Biotechnology,2025-11-08,8.92
+STU00172,Pooja,Das,Male,1995-09-13,pooja.das.00172@student.example.edu,8057211631,Mathematics,2022-05-05,9.24
+STU00173,Reyansh,Mishra,Male,2004-12-12,reyansh.mishra.00173@student.example.edu,9862321353,Commerce,2022-05-31,5.4
+STU00174,Diya,Gupta,Female,2008-02-17,diya.gupta.00174@student.example.edu,9058672970,Commerce,2026-08-31,6.63
+STU00175,Sakshi,Patel,Female,2008-07-30,sakshi.patel.00175@student.example.edu,6425968237,Information Technology,2026-03-07,8.97
+STU00176,Arnav,Ghosh,Male,2004-08-24,arnav.ghosh.00176@student.example.edu,9814321889,Business Administration,2024-07-13,6.14
+STU00177,Yash,Joshi,Female,1997-02-17,yash.joshi.00177@student.example.edu,7832937460,Civil Engineering,2023-10-03,6.56
+STU00178,Riya,Rao,Male,2005-08-21,riya.rao.00178@student.example.edu,6391807468,Information Technology,2023-01-05,9.16
+STU00179,Varun,Mehta,Male,2003-05-11,varun.mehta.00179@student.example.edu,6558841618,Commerce,2026-07-21,7.78
+STU00180,Arnav,Chopra,Female,1997-09-28,arnav.chopra.00180@student.example.edu,7518692176,Mathematics,2024-04-21,9.37
+STU00181,Arjun,Patel,Male,2002-11-20,arjun.patel.00181@student.example.edu,8482141132,Electronics,2022-08-01,7.54
+STU00182,Aisha,Kapoor,Male,2002-11-08,aisha.kapoor.00182@student.example.edu,8389142017,Civil Engineering,2026-09-28,6.84
+STU00183,Naina,Kapoor,Male,2007-08-01,naina.kapoor.00183@student.example.edu,9515116601,Biotechnology,2026-09-24,8.11
+STU00184,Vivaan,Menon,Male,2000-12-30,vivaan.menon.00184@student.example.edu,6774881143,Civil Engineering,2022-03-01,6.37
+STU00185,Sneha,Reddy,Female,1998-03-19,sneha.reddy.00185@student.example.edu,8823273703,Electronics,2025-03-05,7
+STU00186,Vivaan,Gupta,Male,1999-10-29,vivaan.gupta.00186@student.example.edu,7803166816,Electronics,2024-02-10,7.27
+STU00187,Riya,Patel,Male,2007-09-24,riya.patel.00187@student.example.edu,6364887703,Electronics,2026-05-26,9.42
+STU00188,Aadhya,Agarwal,Male,1996-10-30,aadhya.agarwal.00188@student.example.edu,7903155722,Physics,2023-07-12,8.31
+STU00189,Anika,Das,Female,1999-11-01,anika.das.00189@student.example.edu,8200510647,Mathematics,2026-03-27,5.57
+STU00190,Rohan,Patel,Male,2008-04-20,rohan.patel.00190@student.example.edu,8263164755,Computer Science,2026-08-31,8.34
+STU00191,Kavya,Joshi,Other,1996-03-24,kavya.joshi.00191@student.example.edu,6877990647,Mechanical Engineering,2022-01-16,6.51
+STU00192,Ananya,Agarwal,Female,2002-05-11,ananya.agarwal.00192@student.example.edu,6033199694,Mathematics,2022-09-03,7.49
+STU00193,Ira,Rao,Female,2000-02-29,ira.rao.00193@student.example.edu,8399699438,Business Administration,2024-10-21,9.17
+STU00194,Ishaan,Joshi,Male,1995-12-13,ishaan.joshi.00194@student.example.edu,6080494302,Information Technology,2024-06-12,7.3
+STU00195,Amit,Kulkarni,Female,2004-01-27,amit.kulkarni.00195@student.example.edu,8749387529,Information Technology,2025-12-24,7.09
+STU00196,Maya,Sharma,Male,1998-11-08,maya.sharma.00196@student.example.edu,8654827789,Business Administration,2026-06-30,7.3
+STU00197,Kabir,Malhotra,Male,2000-06-16,kabir.malhotra.00197@student.example.edu,8529182928,Information Technology,2024-06-11,7
+STU00198,Maya,Jain,Female,2002-08-13,maya.jain.00198@student.example.edu,7430518844,Information Technology,2023-03-30,8.9
+STU00199,Manav,Saxena,Female,2006-06-09,manav.saxena.00199@student.example.edu,9890908506,Business Administration,2024-07-10,8.88
+STU00200,Diya,Kapoor,Female,2000-09-27,diya.kapoor.00200@student.example.edu,6745172634,Information Technology,2023-02-09,8.01
+STU00201,Ira,Agarwal,Male,2005-05-28,ira.agarwal.00201@student.example.edu,8421225455,Physics,2026-08-20,8.8
+STU00202,Naina,Saxena,Male,2002-04-01,naina.saxena.00202@student.example.edu,8693878240,Physics,2026-11-05,6.58
+STU00203,Ishaan,Mishra,Female,2001-10-16,ishaan.mishra.00203@student.example.edu,7179714407,Business Administration,2026-06-19,7.96
+STU00204,Manav,Gupta,Female,2005-02-19,manav.gupta.00204@student.example.edu,6244340918,Civil Engineering,2022-05-07,6.84
+STU00205,Ishaan,Saxena,Male,1997-01-09,ishaan.saxena.00205@student.example.edu,8551553388,Physics,2025-06-13,7.54
+STU00206,Dhruv,Chopra,Male,1995-12-03,dhruv.chopra.00206@student.example.edu,9904339835,Mechanical Engineering,2024-07-10,9.05
+STU00207,Amit,Menon,Female,1998-05-20,amit.menon.00207@student.example.edu,7934982045,Business Administration,2022-05-07,5.52
+STU00208,Kabir,Bansal,Male,1995-11-17,kabir.bansal.00208@student.example.edu,9039212077,Physics,2023-05-23,7.19
+STU00209,Sakshi,Bansal,Male,2003-03-01,sakshi.bansal.00209@student.example.edu,9942508505,Mathematics,2024-02-03,6.41
+STU00210,Sneha,Sinha,Male,2002-07-04,sneha.sinha.00210@student.example.edu,7416011033,Mathematics,2022-05-15,5.47
+STU00211,Neha,Singh,Male,2008-07-08,neha.singh.00211@student.example.edu,6645848526,Commerce,2026-09-28,6.67
+STU00212,Diya,Bhatia,Female,2003-10-16,diya.bhatia.00212@student.example.edu,8555682594,Information Technology,2022-09-22,8.54
+STU00213,Pooja,Chopra,Female,2002-05-14,pooja.chopra.00213@student.example.edu,6548870021,Biotechnology,2026-07-24,8.35
+STU00214,Kabir,Saxena,Male,2006-05-28,kabir.saxena.00214@student.example.edu,6078299575,Electronics,2025-06-07,6.81
+STU00215,Saanvi,Khan,Male,2005-11-27,saanvi.khan.00215@student.example.edu,6972994972,Electronics,2023-12-25,10
+STU00216,Ishaan,Patel,Male,1997-04-08,ishaan.patel.00216@student.example.edu,9310881714,Biotechnology,2024-11-05,7.7
+STU00217,Aditya,Sinha,Female,2008-11-10,aditya.sinha.00217@student.example.edu,8565153945,Electronics,2026-01-16,6.88
+STU00218,Ira,Desai,Male,1998-09-18,ira.desai.00218@student.example.edu,7879792991,Business Administration,2026-01-16,5.22
+STU00219,Priya,Das,Male,2005-01-25,priya.das.00219@student.example.edu,8293560436,Physics,2023-05-19,6.2
+STU00220,Meera,Reddy,Male,2007-10-17,meera.reddy.00220@student.example.edu,7982900391,Mathematics,2026-01-10,8.85
+STU00221,Manav,Bansal,Female,1998-08-20,manav.bansal.00221@student.example.edu,6857695227,Electronics,2026-07-31,9.01
+STU00222,Rahul,Verma,Male,2003-04-29,rahul.verma.00222@student.example.edu,6440619526,Biotechnology,2025-02-09,8.56
+STU00223,Rohan,Patel,Female,1998-08-06,rohan.patel.00223@student.example.edu,7929811336,Electronics,2023-07-13,9.53
+STU00224,Varun,Gupta,Male,1999-12-24,varun.gupta.00224@student.example.edu,7937579958,Computer Science,2026-07-31,9.42
+STU00225,Simran,Verma,Female,2003-05-22,simran.verma.00225@student.example.edu,7658570832,Business Administration,2023-04-28,9.97
+STU00226,Kavya,Sharma,Female,1997-03-22,kavya.sharma.00226@student.example.edu,9069631473,Electronics,2026-09-15,8.25
+STU00227,Ananya,Verma,Female,2005-08-06,ananya.verma.00227@student.example.edu,9569592370,Physics,2026-07-01,5.69
+STU00228,Tara,Menon,Female,1996-10-11,tara.menon.00228@student.example.edu,7099184899,Electronics,2022-02-08,6.08
+STU00229,Arnav,Ghosh,Male,2004-06-29,arnav.ghosh.00229@student.example.edu,9333636070,Civil Engineering,2022-08-16,6.44
+STU00230,Rohan,Verma,Female,2005-04-02,rohan.verma.00230@student.example.edu,6476131010,Physics,2022-08-08,9.18
+STU00231,Anika,Chopra,Female,2006-07-23,anika.chopra.00231@student.example.edu,7039116361,Civil Engineering,2026-10-12,8.59
+STU00232,Varun,Sharma,Male,2000-05-24,varun.sharma.00232@student.example.edu,7789144223,Information Technology,2025-03-14,5.94
+STU00233,Sakshi,Reddy,Female,2006-10-19,sakshi.reddy.00233@student.example.edu,8178955870,Biotechnology,2026-11-06,8.93
+STU00234,Arnav,Sharma,Female,2005-07-18,arnav.sharma.00234@student.example.edu,8730185259,Business Administration,2022-10-15,6.93
+STU00235,Rahul,Ghosh,Female,1996-07-07,rahul.ghosh.00235@student.example.edu,7035627944,Information Technology,2023-12-08,8.66
+STU00236,Dhruv,Ghosh,Male,1997-12-28,dhruv.ghosh.00236@student.example.edu,7513112872,Electronics,2022-04-01,7.73
+STU00237,Yash,Pillai,Female,1999-02-02,yash.pillai.00237@student.example.edu,6579187439,Physics,2026-07-20,5.32
+STU00238,Aditya,Patel,Female,1999-06-23,aditya.patel.00238@student.example.edu,7355473709,Biotechnology,2022-03-27,9.67
+STU00239,Maya,Desai,Male,2000-09-06,maya.desai.00239@student.example.edu,9235359859,Civil Engineering,2022-03-16,8.23
+STU00240,Nikhil,Jain,Male,2002-06-12,nikhil.jain.00240@student.example.edu,6534616074,Mathematics,2023-07-14,9
+STU00241,Maya,Ghosh,Female,2003-09-03,maya.ghosh.00241@student.example.edu,6802373824,Physics,2023-11-26,7.48
+STU00242,Riya,Bhatia,Male,2000-12-24,riya.bhatia.00242@student.example.edu,6354813720,Information Technology,2026-06-29,8.64
+STU00243,Varun,Menon,Other,1999-01-18,varun.menon.00243@student.example.edu,7261717180,Information Technology,2025-01-22,6.61
+STU00244,Amit,Sinha,Female,2004-12-31,amit.sinha.00244@student.example.edu,9082338725,Physics,2025-05-19,7.13
+STU00245,Nikhil,Das,Female,2002-11-28,nikhil.das.00245@student.example.edu,7868055235,Computer Science,2025-06-13,6.37
+STU00246,Ishaan,Sinha,Male,2003-02-24,ishaan.sinha.00246@student.example.edu,9440681022,Electronics,2024-11-16,8.75
+STU00247,Vivaan,Rao,Male,2004-10-29,vivaan.rao.00247@student.example.edu,6542153826,Business Administration,2022-03-13,5.34
+STU00248,Riya,Joshi,Male,1995-09-23,riya.joshi.00248@student.example.edu,6659011900,Business Administration,2025-05-24,8.4
+STU00249,Riya,Das,Male,2007-11-15,riya.das.00249@student.example.edu,8274012889,Business Administration,2025-04-03,6.83
+STU00250,Karan,Kapoor,Male,1995-08-01,karan.kapoor.00250@student.example.edu,6799070274,Mathematics,2026-02-15,7.5
+STU00251,Arnav,Mehta,Female,2000-11-02,arnav.mehta.00251@student.example.edu,7916728422,Commerce,2025-12-12,6.07
+STU00252,Neha,Pillai,Male,2006-01-06,neha.pillai.00252@student.example.edu,6526723719,Information Technology,2024-02-19,5.68
+STU00253,Tara,Nair,Male,2004-12-25,tara.nair.00253@student.example.edu,9481127747,Business Administration,2022-06-29,8.41
+STU00254,Nikhil,Pillai,Female,2007-02-28,nikhil.pillai.00254@student.example.edu,9828240439,Electronics,2024-12-21,6.5
+STU00255,Ira,Chauhan,Female,2000-01-11,ira.chauhan.00255@student.example.edu,6863204110,Mechanical Engineering,2022-09-06,8.96
+STU00256,Zoya,Sharma,Female,2007-11-02,zoya.sharma.00256@student.example.edu,8007492791,Biotechnology,2025-11-13,9.02
+STU00257,Ananya,Menon,Male,1996-06-22,ananya.menon.00257@student.example.edu,7710084067,Physics,2023-09-26,10
+STU00258,Sakshi,Malhotra,Male,2007-11-23,sakshi.malhotra.00258@student.example.edu,6538274418,Information Technology,2025-02-05,9.86
+STU00259,Tara,Das,Male,2002-09-23,tara.das.00259@student.example.edu,9770810142,Biotechnology,2022-09-20,9.15
+STU00260,Dhruv,Nair,Male,1997-11-23,dhruv.nair.00260@student.example.edu,8159783506,Computer Science,2024-06-05,9.55
+STU00261,Rohan,Bansal,Female,1998-09-10,rohan.bansal.00261@student.example.edu,7385817349,Mechanical Engineering,2022-11-28,9.67
+STU00262,Nikhil,Bansal,Male,1996-10-08,nikhil.bansal.00262@student.example.edu,6843110305,Biotechnology,2023-05-29,8.18
+STU00263,Karan,Rao,Male,2008-10-12,karan.rao.00263@student.example.edu,6401271939,Electronics,2026-07-12,7.51
+STU00264,Dhruv,Kulkarni,Female,2008-07-28,dhruv.kulkarni.00264@student.example.edu,9618638812,Computer Science,2026-01-16,9.62
+STU00265,Vivaan,Gupta,Female,2007-12-08,vivaan.gupta.00265@student.example.edu,8796581976,Commerce,2025-09-04,6.05
+STU00266,Simran,Menon,Male,2006-03-03,simran.menon.00266@student.example.edu,8343237444,Civil Engineering,2026-09-07,6.45
+STU00267,Aisha,Kapoor,Male,2004-02-09,aisha.kapoor.00267@student.example.edu,7947957237,Computer Science,2023-09-02,5.36
+STU00268,Aadhya,Das,Female,2005-06-01,aadhya.das.00268@student.example.edu,7461115950,Business Administration,2023-07-23,8.03
+STU00269,Amit,Ghosh,Other,2002-09-30,amit.ghosh.00269@student.example.edu,6561636336,Biotechnology,2024-03-27,8.8
+STU00270,Arnav,Mehta,Female,2005-06-18,arnav.mehta.00270@student.example.edu,7148782098,Electronics,2023-02-23,7.25
+STU00271,Reyansh,Verma,Female,2003-08-13,reyansh.verma.00271@student.example.edu,8643025991,Electronics,2026-11-05,7.09
+STU00272,Amit,Bhatia,Male,2002-01-05,amit.bhatia.00272@student.example.edu,9277581356,Biotechnology,2023-01-24,5.8
+STU00273,Yash,Mishra,Male,2006-02-26,yash.mishra.00273@student.example.edu,6386757895,Biotechnology,2023-04-14,9.73
+STU00274,Yash,Kapoor,Female,2002-11-30,yash.kapoor.00274@student.example.edu,6217069388,Commerce,2022-04-10,6.41
+STU00275,Aisha,Patel,Male,1997-05-30,aisha.patel.00275@student.example.edu,6575246182,Business Administration,2024-06-01,9.41
+STU00276,Maya,Reddy,Female,1996-02-24,maya.reddy.00276@student.example.edu,8412985084,Biotechnology,2025-03-13,5.97
+STU00277,Neha,Gupta,Female,2005-02-06,neha.gupta.00277@student.example.edu,8361618235,Commerce,2026-05-21,6.4
+STU00278,Krish,Mehta,Female,1997-03-03,krish.mehta.00278@student.example.edu,7602874642,Business Administration,2024-03-17,8.97
+STU00279,Arnav,Reddy,Male,1999-06-19,arnav.reddy.00279@student.example.edu,8186664545,Computer Science,2025-05-18,7.01
+STU00280,Aditya,Verma,Female,2002-06-21,aditya.verma.00280@student.example.edu,8034715642,Electronics,2026-07-05,7.6
+STU00281,Anika,Thomas,Male,2002-05-10,anika.thomas.00281@student.example.edu,7368076065,Commerce,2025-06-09,5.81
+STU00282,Pooja,Kulkarni,Female,2006-06-07,pooja.kulkarni.00282@student.example.edu,8103875358,Civil Engineering,2026-06-01,8.54
+STU00283,Aisha,Desai,Female,2002-06-06,aisha.desai.00283@student.example.edu,6470748124,Commerce,2025-10-11,9.9
+STU00284,Pooja,Chauhan,Male,1995-08-07,pooja.chauhan.00284@student.example.edu,8038349447,Commerce,2025-05-07,6.33
+STU00285,Naina,Kapoor,Male,2008-02-02,naina.kapoor.00285@student.example.edu,6732343731,Commerce,2026-06-07,7.62
+STU00286,Dev,Rao,Male,2000-06-07,dev.rao.00286@student.example.edu,8459170565,Information Technology,2022-03-06,9.74
+STU00287,Meera,Sharma,Female,2004-05-23,meera.sharma.00287@student.example.edu,7773650170,Mathematics,2022-11-07,8.45
+STU00288,Manav,Agarwal,Male,2005-07-30,manav.agarwal.00288@student.example.edu,9124168227,Electronics,2026-09-13,5.31
+STU00289,Sakshi,Iyer,Male,2005-09-23,sakshi.iyer.00289@student.example.edu,7618450083,Electronics,2025-09-03,6.57
+STU00290,Yash,Bhatia,Male,2007-04-03,yash.bhatia.00290@student.example.edu,8902833426,Civil Engineering,2025-03-30,8.86
+STU00291,Krish,Mishra,Female,2000-07-12,krish.mishra.00291@student.example.edu,8396963917,Civil Engineering,2023-07-26,6.49
+STU00292,Neha,Pillai,Female,2005-12-19,neha.pillai.00292@student.example.edu,8060740001,Civil Engineering,2024-09-28,6.74
+STU00293,Neha,Mehta,Male,2007-03-08,neha.mehta.00293@student.example.edu,9847261858,Business Administration,2025-03-30,9.9
+STU00294,Diya,Patel,Female,1996-10-09,diya.patel.00294@student.example.edu,9968591159,Civil Engineering,2023-12-11,7.21
+STU00295,Aisha,Iyer,Female,2007-01-30,aisha.iyer.00295@student.example.edu,8413849014,Electronics,2024-11-02,8.48
+STU00296,Reyansh,Menon,Male,2000-05-14,reyansh.menon.00296@student.example.edu,6218035843,Biotechnology,2023-05-12,8.35
+STU00297,Kavya,Saxena,Female,1997-03-31,kavya.saxena.00297@student.example.edu,7418600299,Information Technology,2024-04-26,8.59
+STU00298,Ananya,Sharma,Male,1998-07-17,ananya.sharma.00298@student.example.edu,8804153202,Physics,2024-04-13,9.68
+STU00299,Aisha,Saxena,Female,2001-06-11,aisha.saxena.00299@student.example.edu,7225849566,Information Technology,2023-10-20,8.23
+STU00300,Naina,Kapoor,Male,1995-11-02,naina.kapoor.00300@student.example.edu,7794802316,Electronics,2022-12-25,9.41
+STU00301,Aditya,Desai,Female,2006-02-10,aditya.desai.00301@student.example.edu,9216944250,Civil Engineering,2024-02-26,9.81
+STU00302,Aditya,Sharma,Female,2008-07-08,aditya.sharma.00302@student.example.edu,9987683174,Civil Engineering,2025-08-31,9.91
+STU00303,Yash,Saxena,Male,2006-01-29,yash.saxena.00303@student.example.edu,9655273742,Civil Engineering,2023-10-30,7.52
+STU00304,Meera,Chauhan,Female,1998-08-24,meera.chauhan.00304@student.example.edu,7971022633,Electronics,2026-02-06,8.24
+STU00305,Aarav,Ghosh,Female,2001-08-13,aarav.ghosh.00305@student.example.edu,8896530837,Electronics,2025-03-08,8.79
+STU00306,Krish,Jain,Male,2004-02-04,krish.jain.00306@student.example.edu,7836971472,Information Technology,2026-08-21,7.58
+STU00307,Maya,Sinha,Female,1998-02-25,maya.sinha.00307@student.example.edu,7389858576,Computer Science,2024-09-04,9.68
+STU00308,Rahul,Joshi,Female,2000-12-27,rahul.joshi.00308@student.example.edu,7296847488,Commerce,2023-11-07,7.91
+STU00309,Aarav,Singh,Male,2000-04-19,aarav.singh.00309@student.example.edu,8868119543,Civil Engineering,2022-05-08,5.59
+STU00310,Aadhya,Joshi,Male,2001-12-22,aadhya.joshi.00310@student.example.edu,6504296774,Civil Engineering,2025-11-14,8.19
+STU00311,Riya,Menon,Female,1997-12-30,riya.menon.00311@student.example.edu,6657926994,Commerce,2024-09-06,7.27
+STU00312,Riya,Malhotra,Male,2005-07-24,riya.malhotra.00312@student.example.edu,8308620882,Mechanical Engineering,2026-10-22,9.01
+STU00313,Priya,Sinha,Male,1996-11-01,priya.sinha.00313@student.example.edu,7918767949,Business Administration,2024-12-12,7.64
+STU00314,Ishaan,Bhatia,Male,1996-05-20,ishaan.bhatia.00314@student.example.edu,8352135602,Mechanical Engineering,2026-08-25,9.51
+STU00315,Naina,Chopra,Female,2002-05-11,naina.chopra.00315@student.example.edu,8234849897,Mechanical Engineering,2026-10-16,7.21
+STU00316,Dhruv,Mishra,Female,2006-06-12,dhruv.mishra.00316@student.example.edu,9473306055,Electronics,2025-12-10,5.28
+STU00317,Manav,Malhotra,Female,1996-04-17,manav.malhotra.00317@student.example.edu,7985899701,Civil Engineering,2025-02-18,8.36
+STU00318,Vivaan,Joshi,Female,1995-01-25,vivaan.joshi.00318@student.example.edu,6935878994,Computer Science,2026-03-08,7.89
+STU00319,Varun,Reddy,Male,2007-02-20,varun.reddy.00319@student.example.edu,9840638976,Physics,2024-04-21,5.35
+STU00320,Aditya,Patel,Female,1998-01-14,aditya.patel.00320@student.example.edu,8755328890,Mathematics,2026-04-18,9.89
+STU00321,Riya,Thomas,Female,2003-06-20,riya.thomas.00321@student.example.edu,6344671094,Biotechnology,2024-02-09,8.41
+STU00322,Ananya,Saxena,Male,1997-08-29,ananya.saxena.00322@student.example.edu,8307507627,Electronics,2023-01-01,6.97
+STU00323,Kavya,Desai,Female,1995-07-06,kavya.desai.00323@student.example.edu,7988586594,Biotechnology,2023-09-04,8.37
+STU00324,Varun,Chopra,Female,2000-02-25,varun.chopra.00324@student.example.edu,7978370498,Civil Engineering,2023-05-22,6.73
+STU00325,Meera,Bhatia,Male,1997-07-13,meera.bhatia.00325@student.example.edu,9476682312,Commerce,2022-03-07,8.3
+STU00326,Vivaan,Kapoor,Female,1997-04-06,vivaan.kapoor.00326@student.example.edu,6144208994,Computer Science,2025-05-01,7.23
+STU00327,Priya,Ghosh,Female,2004-11-04,priya.ghosh.00327@student.example.edu,8318250726,Computer Science,2023-04-25,6.09
+STU00328,Ananya,Bansal,Other,2000-04-02,ananya.bansal.00328@student.example.edu,9935895288,Business Administration,2026-07-29,8.66
+STU00329,Naina,Menon,Male,2002-03-11,naina.menon.00329@student.example.edu,7296068379,Biotechnology,2023-05-01,9.38
+STU00330,Kavya,Malhotra,Female,1996-05-14,kavya.malhotra.00330@student.example.edu,8541190928,Electronics,2025-02-14,9.4
+STU00331,Varun,Chopra,Male,2002-09-22,varun.chopra.00331@student.example.edu,8883394191,Biotechnology,2025-08-10,6.91
+STU00332,Amit,Pillai,Female,1998-05-07,amit.pillai.00332@student.example.edu,7616884203,Biotechnology,2023-09-07,5.92
+STU00333,Aisha,Kapoor,Male,2001-09-29,aisha.kapoor.00333@student.example.edu,9039019230,Physics,2026-10-23,5.72
+STU00334,Arjun,Chopra,Female,2004-05-05,arjun.chopra.00334@student.example.edu,8276297510,Mechanical Engineering,2025-02-15,5.67
+STU00335,Rahul,Iyer,Female,1996-10-09,rahul.iyer.00335@student.example.edu,9638410176,Biotechnology,2024-07-10,6.86
+STU00336,Meera,Verma,Female,2008-07-26,meera.verma.00336@student.example.edu,6169855455,Mechanical Engineering,2026-05-30,9.37
+STU00337,Dhruv,Ghosh,Male,1999-11-13,dhruv.ghosh.00337@student.example.edu,6897171779,Business Administration,2024-09-08,9.35
+STU00338,Pooja,Bhatia,Female,1999-04-06,pooja.bhatia.00338@student.example.edu,6503869216,Physics,2026-02-27,8.73
+STU00339,Priya,Pillai,Male,1999-08-03,priya.pillai.00339@student.example.edu,9930438209,Business Administration,2024-03-23,6.2
+STU00340,Neha,Joshi,Female,2003-01-22,neha.joshi.00340@student.example.edu,7123398645,Physics,2023-09-24,6.8
+STU00341,Yash,Mehta,Male,2005-07-13,yash.mehta.00341@student.example.edu,9606617978,Mechanical Engineering,2026-10-19,6.6
+STU00342,Riya,Khan,Female,2007-08-14,riya.khan.00342@student.example.edu,9183654731,Civil Engineering,2025-03-27,5.73
+STU00343,Arnav,Bhatia,Male,2004-05-13,arnav.bhatia.00343@student.example.edu,6654602021,Mechanical Engineering,2023-08-28,5.98
+STU00344,Dev,Kulkarni,Male,2006-03-14,dev.kulkarni.00344@student.example.edu,8811519776,Business Administration,2026-04-14,9.72
+STU00345,Rahul,Agarwal,Male,2006-01-01,rahul.agarwal.00345@student.example.edu,6722558006,Business Administration,2025-08-01,8.66
+STU00346,Aadhya,Rao,Male,2005-12-14,aadhya.rao.00346@student.example.edu,9938052866,Computer Science,2023-12-25,9.45
+STU00347,Sakshi,Verma,Male,1996-08-31,sakshi.verma.00347@student.example.edu,8869963931,Computer Science,2026-08-03,5.24
+STU00348,Simran,Rao,Male,2000-03-10,simran.rao.00348@student.example.edu,9037270171,Mechanical Engineering,2022-05-20,5.76
+STU00349,Manav,Das,Female,2008-11-09,manav.das.00349@student.example.edu,8863689749,Physics,2026-10-01,9.67
+STU00350,Zoya,Sharma,Female,2007-05-17,zoya.sharma.00350@student.example.edu,6050899550,Civil Engineering,2025-07-11,5.08
+STU00351,Ishita,Patel,Female,2004-08-28,ishita.patel.00351@student.example.edu,9907446848,Information Technology,2026-07-10,5.9
+STU00352,Sakshi,Rao,Female,2006-10-22,sakshi.rao.00352@student.example.edu,9501319147,Mathematics,2025-03-21,6.77
+STU00353,Kabir,Reddy,Male,2005-04-18,kabir.reddy.00353@student.example.edu,7044569947,Mechanical Engineering,2025-06-18,9.95
+STU00354,Pooja,Sinha,Male,1996-10-22,pooja.sinha.00354@student.example.edu,9686023201,Computer Science,2025-08-31,8.25
+STU00355,Kabir,Joshi,Female,2007-05-25,kabir.joshi.00355@student.example.edu,6241011818,Electronics,2025-09-23,8.18
+STU00356,Kabir,Mishra,Male,2002-06-06,kabir.mishra.00356@student.example.edu,9684911471,Biotechnology,2025-03-04,9.87
+STU00357,Aditya,Kapoor,Female,2007-09-18,aditya.kapoor.00357@student.example.edu,7164344392,Information Technology,2026-01-16,5.23
+STU00358,Karan,Thomas,Male,1995-09-27,karan.thomas.00358@student.example.edu,9989021123,Computer Science,2023-01-03,9.25
+STU00359,Saanvi,Kulkarni,Female,2003-12-07,saanvi.kulkarni.00359@student.example.edu,7285384455,Mechanical Engineering,2022-06-07,5.81
+STU00360,Naina,Desai,Male,2007-02-15,naina.desai.00360@student.example.edu,7648606935,Electronics,2025-01-19,8.78
+STU00361,Kabir,Bansal,Male,2002-10-04,kabir.bansal.00361@student.example.edu,6419557255,Information Technology,2022-04-20,7.19
+STU00362,Sneha,Menon,Male,2008-05-11,sneha.menon.00362@student.example.edu,9322393065,Civil Engineering,2026-06-21,6.63
+STU00363,Tara,Mishra,Female,2007-05-28,tara.mishra.00363@student.example.edu,7854772804,Commerce,2025-06-15,5.93
+STU00364,Dev,Gupta,Male,2001-08-16,dev.gupta.00364@student.example.edu,7058493748,Information Technology,2026-06-23,8.57
+STU00365,Karan,Rao,Female,1998-06-17,karan.rao.00365@student.example.edu,7673413661,Information Technology,2026-02-23,6.58
+STU00366,Kabir,Sharma,Male,2004-12-22,kabir.sharma.00366@student.example.edu,9269958296,Electronics,2024-01-08,6.35
+STU00367,Kabir,Nair,Female,2007-06-29,kabir.nair.00367@student.example.edu,8200916676,Computer Science,2026-01-17,7.04
+STU00368,Kabir,Reddy,Male,2008-05-22,kabir.reddy.00368@student.example.edu,9709641319,Civil Engineering,2026-04-19,6.93
+STU00369,Simran,Joshi,Male,2007-07-20,simran.joshi.00369@student.example.edu,8456551333,Mathematics,2025-03-24,7.61
+STU00370,Aadhya,Rao,Female,2001-01-07,aadhya.rao.00370@student.example.edu,6626785308,Mathematics,2024-10-06,5.32
+STU00371,Karan,Malhotra,Female,1996-09-22,karan.malhotra.00371@student.example.edu,7081042134,Physics,2024-01-10,9.72
+STU00372,Anika,Menon,Female,1997-05-26,anika.menon.00372@student.example.edu,7308496151,Mathematics,2022-10-05,5.03
+STU00373,Sneha,Desai,Male,2002-05-23,sneha.desai.00373@student.example.edu,7437681124,Commerce,2024-06-20,7.15
+STU00374,Ananya,Patel,Female,1999-07-04,ananya.patel.00374@student.example.edu,7349406919,Mathematics,2024-09-08,5.89
+STU00375,Amit,Patel,Male,2006-01-05,amit.patel.00375@student.example.edu,9358554365,Mathematics,2026-03-29,6.21
+STU00376,Karan,Desai,Male,2003-03-10,karan.desai.00376@student.example.edu,8421719519,Biotechnology,2022-08-22,6
+STU00377,Ira,Sinha,Male,1995-08-09,ira.sinha.00377@student.example.edu,7982652348,Mechanical Engineering,2026-01-29,9.71
+STU00378,Tara,Chauhan,Female,1996-07-20,tara.chauhan.00378@student.example.edu,9641221409,Mathematics,2026-08-05,8.98
+STU00379,Zoya,Rao,Male,2000-06-05,zoya.rao.00379@student.example.edu,8828935922,Mathematics,2023-06-02,5.77
+STU00380,Dev,Gupta,Female,2008-05-30,dev.gupta.00380@student.example.edu,8500719008,Biotechnology,2026-10-02,7
+STU00381,Simran,Chopra,Female,2003-01-24,simran.chopra.00381@student.example.edu,9846149700,Commerce,2025-12-07,9.06
+STU00382,Kabir,Mehta,Male,2002-12-18,kabir.mehta.00382@student.example.edu,8778843173,Commerce,2022-12-07,8.06
+STU00383,Maya,Agarwal,Female,2004-08-27,maya.agarwal.00383@student.example.edu,6045302356,Mechanical Engineering,2022-08-05,5.49
+STU00384,Manav,Ghosh,Male,2008-01-08,manav.ghosh.00384@student.example.edu,6949324089,Mathematics,2026-08-19,7.23
+STU00385,Yash,Agarwal,Male,2006-03-23,yash.agarwal.00385@student.example.edu,7481623643,Physics,2024-01-25,9.99
+STU00386,Reyansh,Patel,Female,1996-12-04,reyansh.patel.00386@student.example.edu,9570482517,Electronics,2022-08-26,9.7
+STU00387,Nikhil,Patel,Female,1999-08-22,nikhil.patel.00387@student.example.edu,8074151376,Information Technology,2024-12-03,6.74
+STU00388,Tara,Ghosh,Male,2002-02-25,tara.ghosh.00388@student.example.edu,7289624427,Information Technology,2022-05-18,5.22
+STU00389,Vivaan,Jain,Female,1997-06-14,vivaan.jain.00389@student.example.edu,9436189121,Mechanical Engineering,2025-10-18,5.82
+STU00390,Sakshi,Nair,Male,2002-06-04,sakshi.nair.00390@student.example.edu,7831242551,Mechanical Engineering,2025-02-20,9.79
+STU00391,Maya,Saxena,Female,2004-09-10,maya.saxena.00391@student.example.edu,6125379850,Mechanical Engineering,2024-03-21,8.69
+STU00392,Tara,Kulkarni,Female,1995-02-06,tara.kulkarni.00392@student.example.edu,6922542252,Information Technology,2025-12-14,6.03
+STU00393,Naina,Mehta,Male,2007-01-16,naina.mehta.00393@student.example.edu,7571069113,Physics,2025-02-01,6.63
+STU00394,Rohan,Singh,Male,2005-12-23,rohan.singh.00394@student.example.edu,8744950470,Mathematics,2025-12-07,6.57
+STU00395,Krish,Joshi,Male,2002-10-21,krish.joshi.00395@student.example.edu,9631471321,Electronics,2023-12-22,7.29
+STU00396,Pooja,Bhatia,Male,1996-11-25,pooja.bhatia.00396@student.example.edu,6575301286,Mechanical Engineering,2025-10-08,6.57
+STU00397,Pooja,Mehta,Female,1998-03-04,pooja.mehta.00397@student.example.edu,7668437028,Electronics,2024-11-12,7.09
+STU00398,Naina,Joshi,Female,2005-11-30,naina.joshi.00398@student.example.edu,8308026394,Electronics,2026-06-23,8.47
+STU00399,Arnav,Nair,Female,1998-02-23,arnav.nair.00399@student.example.edu,7351110867,Commerce,2023-01-19,9.21
+STU00400,Arjun,Jain,Female,1995-03-20,arjun.jain.00400@student.example.edu,6586412136,Mathematics,2024-09-19,5.98
+STU00401,Arnav,Bansal,Male,2004-03-05,arnav.bansal.00401@student.example.edu,8111946589,Physics,2025-11-03,7.08
+STU00402,Zoya,Nair,Female,1995-09-10,zoya.nair.00402@student.example.edu,9268713302,Computer Science,2026-06-18,6.1
+STU00403,Karan,Kapoor,Male,1998-10-09,karan.kapoor.00403@student.example.edu,7964180409,Physics,2026-05-18,7.83
+STU00404,Arnav,Bansal,Female,1997-07-24,arnav.bansal.00404@student.example.edu,9329085107,Business Administration,2023-07-03,7.72
+STU00405,Ishita,Desai,Male,2004-11-24,ishita.desai.00405@student.example.edu,6938630454,Information Technology,2025-01-23,9.95
+STU00406,Priya,Patel,Male,1995-09-22,priya.patel.00406@student.example.edu,7128782794,Information Technology,2024-07-10,6.74
+STU00407,Tara,Jain,Other,2000-04-25,tara.jain.00407@student.example.edu,9481941646,Business Administration,2023-03-06,8.69
+STU00408,Krish,Saxena,Female,2008-10-26,krish.saxena.00408@student.example.edu,9370902138,Mechanical Engineering,2026-01-05,6.03
+STU00409,Arjun,Kulkarni,Female,2001-04-21,arjun.kulkarni.00409@student.example.edu,8313993297,Civil Engineering,2025-05-07,5.84
+STU00410,Neha,Kulkarni,Female,2006-07-16,neha.kulkarni.00410@student.example.edu,6582349911,Mathematics,2024-01-27,9.81
+STU00411,Arjun,Singh,Male,1997-11-05,arjun.singh.00411@student.example.edu,9719780110,Electronics,2025-12-07,5.66
+STU00412,Amit,Desai,Female,2003-10-23,amit.desai.00412@student.example.edu,6610622521,Civil Engineering,2024-09-29,7.89
+STU00413,Simran,Joshi,Female,1997-02-01,simran.joshi.00413@student.example.edu,8214542998,Business Administration,2024-04-05,8.75
+STU00414,Yash,Mishra,Female,1995-01-21,yash.mishra.00414@student.example.edu,9638555957,Physics,2026-05-05,8.66
+STU00415,Nikhil,Jain,Female,2006-12-27,nikhil.jain.00415@student.example.edu,6935572425,Mechanical Engineering,2026-03-20,9.84
+STU00416,Zoya,Singh,Female,2001-05-12,zoya.singh.00416@student.example.edu,8350680837,Commerce,2023-11-23,7.89
+STU00417,Zoya,Chauhan,Female,1996-02-01,zoya.chauhan.00417@student.example.edu,6427670241,Physics,2022-04-05,8.13
+STU00418,Vivaan,Mehta,Male,1998-07-18,vivaan.mehta.00418@student.example.edu,7960730480,Mathematics,2024-06-22,5
+STU00419,Meera,Pillai,Male,2001-10-08,meera.pillai.00419@student.example.edu,9755619762,Civil Engineering,2022-11-22,9.66
+STU00420,Kabir,Saxena,Female,1996-11-06,kabir.saxena.00420@student.example.edu,8854043590,Electronics,2024-02-01,9.52
+STU00421,Arjun,Joshi,Male,2000-04-02,arjun.joshi.00421@student.example.edu,8815287619,Information Technology,2024-05-29,5.46
+STU00422,Aarav,Iyer,Female,1997-12-23,aarav.iyer.00422@student.example.edu,6971482353,Physics,2025-04-30,7.6
+STU00423,Aarav,Sharma,Male,1997-09-14,aarav.sharma.00423@student.example.edu,7813824517,Physics,2026-10-28,8.47
+STU00424,Ishaan,Kapoor,Female,1997-04-19,ishaan.kapoor.00424@student.example.edu,7345834347,Civil Engineering,2022-07-31,6.84
+STU00425,Ananya,Joshi,Male,1997-12-26,ananya.joshi.00425@student.example.edu,8908281627,Biotechnology,2025-08-06,5.71
+STU00426,Naina,Sharma,Male,1998-09-06,naina.sharma.00426@student.example.edu,7508339770,Electronics,2024-06-20,8.61
+STU00427,Simran,Menon,Male,1999-11-15,simran.menon.00427@student.example.edu,9850837385,Information Technology,2022-06-27,5.5
+STU00428,Dhruv,Ghosh,Female,2004-08-18,dhruv.ghosh.00428@student.example.edu,9397648387,Civil Engineering,2023-10-07,5.7
+STU00429,Kabir,Kapoor,Male,2008-06-16,kabir.kapoor.00429@student.example.edu,9345649167,Computer Science,2026-04-03,9.71
+STU00430,Pooja,Iyer,Male,2006-06-06,pooja.iyer.00430@student.example.edu,9211963986,Computer Science,2024-06-26,6.96
+STU00431,Priya,Mishra,Female,2000-05-28,priya.mishra.00431@student.example.edu,8740542751,Biotechnology,2024-10-20,7.97
+STU00432,Aarav,Reddy,Male,1997-12-17,aarav.reddy.00432@student.example.edu,9697167992,Mathematics,2024-03-03,9.19
+STU00433,Riya,Chopra,Male,2005-07-25,riya.chopra.00433@student.example.edu,6071680424,Computer Science,2022-12-21,7.94
+STU00434,Rahul,Iyer,Female,1996-05-10,rahul.iyer.00434@student.example.edu,7709289717,Biotechnology,2026-06-05,7.53
+STU00435,Simran,Malhotra,Male,1996-11-06,simran.malhotra.00435@student.example.edu,8304528350,Electronics,2025-08-04,7.69
+STU00436,Karan,Gupta,Female,2006-06-20,karan.gupta.00436@student.example.edu,9470591645,Business Administration,2024-08-09,5.78
+STU00437,Maya,Kulkarni,Male,1996-06-25,maya.kulkarni.00437@student.example.edu,9000790068,Mechanical Engineering,2023-09-28,7.19
+STU00438,Arjun,Kapoor,Female,2004-09-29,arjun.kapoor.00438@student.example.edu,7947217245,Computer Science,2022-08-26,8.06
+STU00439,Pooja,Sinha,Male,1998-12-09,pooja.sinha.00439@student.example.edu,6054395639,Computer Science,2022-09-02,8.54
+STU00440,Aadhya,Mishra,Male,2006-09-24,aadhya.mishra.00440@student.example.edu,9362903987,Civil Engineering,2026-08-18,9.11
+STU00441,Aadhya,Reddy,Female,2001-01-10,aadhya.reddy.00441@student.example.edu,9807122420,Computer Science,2026-02-10,5.59
+STU00442,Sneha,Chauhan,Female,2006-10-01,sneha.chauhan.00442@student.example.edu,7129360134,Commerce,2024-02-08,8.56
+STU00443,Ishaan,Mishra,Female,2003-01-29,ishaan.mishra.00443@student.example.edu,8145808627,Electronics,2022-04-24,9.3
+STU00444,Riya,Nair,Female,1997-04-22,riya.nair.00444@student.example.edu,8895325210,Mechanical Engineering,2025-03-21,8.61
+STU00445,Manav,Sharma,Female,1995-04-11,manav.sharma.00445@student.example.edu,6197489159,Mathematics,2023-05-16,7.36
+STU00446,Diya,Nair,Male,1995-10-17,diya.nair.00446@student.example.edu,9449354722,Mathematics,2025-02-06,9.57
+STU00447,Kavya,Khan,Female,2002-03-05,kavya.khan.00447@student.example.edu,9547630097,Business Administration,2023-07-10,5.39
+STU00448,Rohan,Bansal,Male,1996-03-07,rohan.bansal.00448@student.example.edu,6958572516,Computer Science,2023-01-03,9.02
+STU00449,Maya,Gupta,Male,2001-05-01,maya.gupta.00449@student.example.edu,9628588115,Information Technology,2026-05-04,6.55
+STU00450,Arnav,Das,Female,1999-07-02,arnav.das.00450@student.example.edu,8421531503,Commerce,2023-08-21,8.92
+STU00451,Priya,Das,Female,2006-01-24,priya.das.00451@student.example.edu,9145906070,Mechanical Engineering,2024-02-28,9.5
+STU00452,Diya,Sharma,Male,1995-07-15,diya.sharma.00452@student.example.edu,8325918921,Computer Science,2023-04-23,6.73
+STU00453,Sneha,Sharma,Male,2003-06-10,sneha.sharma.00453@student.example.edu,9170040891,Information Technology,2026-10-05,8.64
+STU00454,Saanvi,Bansal,Other,2004-06-01,saanvi.bansal.00454@student.example.edu,6257247382,Electronics,2024-10-04,9.86
+STU00455,Karan,Gupta,Female,2000-03-11,karan.gupta.00455@student.example.edu,8232348845,Business Administration,2026-09-28,7.07
+STU00456,Yash,Ghosh,Female,1997-02-21,yash.ghosh.00456@student.example.edu,6573437604,Mathematics,2024-11-01,8.19
+STU00457,Ishaan,Kulkarni,Male,2004-10-03,ishaan.kulkarni.00457@student.example.edu,6561387824,Civil Engineering,2025-09-18,6.18
+STU00458,Amit,Bhatia,Male,2002-04-26,amit.bhatia.00458@student.example.edu,7944580162,Information Technology,2023-10-14,6.36
+STU00459,Meera,Rao,Male,2008-02-11,meera.rao.00459@student.example.edu,6667483244,Physics,2025-06-01,5.53
+STU00460,Yash,Khan,Female,2007-01-08,yash.khan.00460@student.example.edu,9308571144,Civil Engineering,2026-01-10,6.04
+STU00461,Yash,Singh,Male,1997-01-10,yash.singh.00461@student.example.edu,9468602282,Commerce,2022-11-19,8.43
+STU00462,Aditya,Iyer,Male,2002-05-09,aditya.iyer.00462@student.example.edu,6391756438,Business Administration,2022-10-31,8.56
+STU00463,Maya,Bansal,Female,2001-09-14,maya.bansal.00463@student.example.edu,9522258053,Computer Science,2023-06-17,9.95
+STU00464,Maya,Jain,Female,2007-05-04,maya.jain.00464@student.example.edu,6406841968,Electronics,2025-01-13,7.31
+STU00465,Rohan,Sharma,Female,1999-12-26,rohan.sharma.00465@student.example.edu,6850974890,Business Administration,2022-09-25,9.12
+STU00466,Kabir,Kulkarni,Male,1996-09-06,kabir.kulkarni.00466@student.example.edu,6276905285,Physics,2022-02-14,5.99
+STU00467,Ananya,Gupta,Male,2002-06-09,ananya.gupta.00467@student.example.edu,6183379287,Computer Science,2022-09-08,9.71
+STU00468,Aadhya,Bhatia,Male,2003-11-10,aadhya.bhatia.00468@student.example.edu,6126625486,Mathematics,2024-10-13,6.91
+STU00469,Ira,Reddy,Female,1999-03-14,ira.reddy.00469@student.example.edu,7201966146,Electronics,2023-07-18,7.23
+STU00470,Aditya,Menon,Male,2000-07-06,aditya.menon.00470@student.example.edu,7267467039,Biotechnology,2025-08-18,7.49
+STU00471,Aisha,Verma,Female,2003-08-04,aisha.verma.00471@student.example.edu,7800599868,Biotechnology,2022-10-09,6
+STU00472,Priya,Saxena,Other,2007-03-12,priya.saxena.00472@student.example.edu,6083880626,Business Administration,2026-06-02,9.95
+STU00473,Aisha,Chopra,Male,2002-09-19,aisha.chopra.00473@student.example.edu,8157762617,Civil Engineering,2025-03-04,6.61
+STU00474,Ira,Sharma,Female,1999-11-30,ira.sharma.00474@student.example.edu,9847280438,Civil Engineering,2022-03-02,9.05
+STU00475,Arjun,Chauhan,Other,2006-11-16,arjun.chauhan.00475@student.example.edu,9293562040,Mechanical Engineering,2025-11-17,7.92
+STU00476,Aadhya,Mehta,Female,2000-05-29,aadhya.mehta.00476@student.example.edu,8292179207,Computer Science,2023-06-30,9.08
+STU00477,Kavya,Kulkarni,Male,2003-09-17,kavya.kulkarni.00477@student.example.edu,9604432125,Electronics,2023-12-28,9.96
+STU00478,Ira,Kapoor,Male,2003-01-18,ira.kapoor.00478@student.example.edu,6121146276,Business Administration,2025-04-26,8.52
+STU00479,Naina,Kulkarni,Female,1999-03-23,naina.kulkarni.00479@student.example.edu,9480646467,Physics,2026-09-10,9.41
+STU00480,Ishita,Patel,Female,1995-11-07,ishita.patel.00480@student.example.edu,6241239647,Mechanical Engineering,2022-07-04,6.16
+STU00481,Vivaan,Bansal,Female,2002-06-10,vivaan.bansal.00481@student.example.edu,6865282924,Business Administration,2025-06-11,9.03
+STU00482,Ira,Bhatia,Male,2002-04-04,ira.bhatia.00482@student.example.edu,6094115188,Electronics,2022-05-02,5.74
+STU00483,Rohan,Jain,Male,2003-03-09,rohan.jain.00483@student.example.edu,7604560177,Mathematics,2022-05-29,8.52
+STU00484,Dhruv,Mehta,Female,2002-03-27,dhruv.mehta.00484@student.example.edu,6676474018,Mathematics,2022-10-07,8.66
+STU00485,Zoya,Saxena,Female,2007-08-09,zoya.saxena.00485@student.example.edu,9820803827,Business Administration,2026-07-19,9.64
+STU00486,Kavya,Sinha,Male,1998-12-07,kavya.sinha.00486@student.example.edu,7317795722,Civil Engineering,2024-02-14,8.67
+STU00487,Ananya,Nair,Male,2007-11-06,ananya.nair.00487@student.example.edu,9653973312,Commerce,2025-12-10,9.97
+STU00488,Aditya,Nair,Male,2008-09-17,aditya.nair.00488@student.example.edu,8747261955,Physics,2026-01-08,7.83
+STU00489,Diya,Khan,Male,2000-05-03,diya.khan.00489@student.example.edu,7372322277,Information Technology,2023-12-12,5.84
+STU00490,Sneha,Das,Female,1999-09-14,sneha.das.00490@student.example.edu,8977168607,Civil Engineering,2023-05-27,5.34
+STU00491,Reyansh,Ghosh,Female,2003-08-28,reyansh.ghosh.00491@student.example.edu,9146426435,Electronics,2024-06-16,7.1
+STU00492,Simran,Mishra,Male,2002-11-17,simran.mishra.00492@student.example.edu,7612105539,Physics,2025-01-23,5.51
+STU00493,Naina,Saxena,Male,2000-01-22,naina.saxena.00493@student.example.edu,7938264714,Computer Science,2022-11-30,5.37
+STU00494,Neha,Sharma,Female,1997-05-07,neha.sharma.00494@student.example.edu,7468055063,Mathematics,2022-06-01,5.85
+STU00495,Aadhya,Ghosh,Female,1997-02-01,aadhya.ghosh.00495@student.example.edu,8551341740,Physics,2023-11-24,9.93
+STU00496,Vivaan,Malhotra,Male,1998-09-13,vivaan.malhotra.00496@student.example.edu,9821461211,Computer Science,2025-05-28,7.17
+STU00497,Reyansh,Khan,Female,1999-04-06,reyansh.khan.00497@student.example.edu,8994437044,Biotechnology,2024-04-18,7.77
+STU00498,Rahul,Sinha,Female,2000-04-29,rahul.sinha.00498@student.example.edu,6213182609,Biotechnology,2022-07-16,6.96
+STU00499,Zoya,Rao,Female,1995-02-01,zoya.rao.00499@student.example.edu,6376360931,Commerce,2024-05-25,6.47
+STU00500,Aisha,Iyer,Female,1999-08-23,aisha.iyer.00500@student.example.edu,8741008001,Information Technology,2022-12-16,6.46
+STU00501,Aisha,Jain,Female,2003-12-01,aisha.jain.00501@student.example.edu,8100654796,Civil Engineering,2024-08-22,9.47
+STU00502,Kabir,Saxena,Male,1999-02-23,kabir.saxena.00502@student.example.edu,9803162153,Electronics,2024-01-30,6.91
+STU00503,Tara,Verma,Female,2005-06-06,tara.verma.00503@student.example.edu,6971703178,Commerce,2023-11-27,9.19
+STU00504,Arjun,Rao,Male,1997-03-03,arjun.rao.00504@student.example.edu,8869644485,Biotechnology,2022-06-25,6.72
+STU00505,Simran,Agarwal,Male,2007-06-02,simran.agarwal.00505@student.example.edu,9611196345,Biotechnology,2024-08-02,6.94
+STU00506,Simran,Chopra,Male,2005-08-25,simran.chopra.00506@student.example.edu,9786674545,Civil Engineering,2025-11-09,6.18
+STU00507,Kabir,Joshi,Male,1995-10-12,kabir.joshi.00507@student.example.edu,8453370912,Commerce,2024-10-25,9.5
+STU00508,Krish,Rao,Female,2005-01-26,krish.rao.00508@student.example.edu,6717967293,Mechanical Engineering,2023-01-15,9.86
+STU00509,Ananya,Verma,Female,2004-10-06,ananya.verma.00509@student.example.edu,9532885614,Commerce,2023-02-18,8.14
+STU00510,Rahul,Khan,Male,1996-07-02,rahul.khan.00510@student.example.edu,7666873181,Biotechnology,2022-06-28,7.78
+STU00511,Amit,Jain,Female,2005-04-11,amit.jain.00511@student.example.edu,9378209272,Commerce,2022-05-06,8.5
+STU00512,Sakshi,Chauhan,Female,2004-04-18,sakshi.chauhan.00512@student.example.edu,6636513034,Commerce,2022-11-03,7.83
+STU00513,Reyansh,Bhatia,Female,1997-04-07,reyansh.bhatia.00513@student.example.edu,7228759446,Business Administration,2026-05-29,9.34
+STU00514,Simran,Singh,Female,2005-11-21,simran.singh.00514@student.example.edu,8615472543,Electronics,2026-02-04,7.37
+STU00515,Karan,Joshi,Female,2008-08-26,karan.joshi.00515@student.example.edu,8979252408,Mathematics,2026-08-09,7.01
+STU00516,Sneha,Pillai,Female,2005-08-28,sneha.pillai.00516@student.example.edu,9852720361,Business Administration,2024-02-29,6.86
+STU00517,Pooja,Patel,Female,2006-01-10,pooja.patel.00517@student.example.edu,6421840452,Mechanical Engineering,2026-11-12,9.86
+STU00518,Ananya,Patel,Male,2004-12-08,ananya.patel.00518@student.example.edu,9546884199,Mathematics,2026-05-05,6.6
+STU00519,Anika,Saxena,Female,2004-11-27,anika.saxena.00519@student.example.edu,9923164030,Physics,2023-03-09,9.12
+STU00520,Sakshi,Jain,Female,1996-04-05,sakshi.jain.00520@student.example.edu,9399425369,Civil Engineering,2024-11-21,5.79
+STU00521,Manav,Joshi,Female,2006-10-04,manav.joshi.00521@student.example.edu,6746196273,Mechanical Engineering,2023-12-02,5.96
+STU00522,Arjun,Kapoor,Female,1996-02-19,arjun.kapoor.00522@student.example.edu,9026379752,Business Administration,2024-01-09,6
+STU00523,Yash,Bansal,Female,1997-10-11,yash.bansal.00523@student.example.edu,6131267917,Physics,2025-10-27,6.21
+STU00524,Anika,Das,Female,2005-08-23,anika.das.00524@student.example.edu,8367960313,Electronics,2025-12-06,6.75
+STU00525,Rahul,Ghosh,Male,1997-01-10,rahul.ghosh.00525@student.example.edu,6117898946,Electronics,2023-08-07,6.93
+STU00526,Naina,Agarwal,Male,1999-12-19,naina.agarwal.00526@student.example.edu,6966848837,Civil Engineering,2025-08-18,8.39
+STU00527,Simran,Bansal,Female,1995-03-14,simran.bansal.00527@student.example.edu,9914929023,Electronics,2024-08-28,5.66
+STU00528,Anika,Chauhan,Female,2000-08-29,anika.chauhan.00528@student.example.edu,9457816169,Civil Engineering,2025-05-30,9.72
+STU00529,Varun,Thomas,Female,2002-10-27,varun.thomas.00529@student.example.edu,7082326234,Civil Engineering,2024-07-29,6.09
+STU00530,Sakshi,Desai,Male,2008-02-10,sakshi.desai.00530@student.example.edu,6031557592,Business Administration,2025-05-24,7.56
+STU00531,Arnav,Saxena,Male,2001-05-04,arnav.saxena.00531@student.example.edu,8939532043,Information Technology,2023-09-04,5.54
+STU00532,Sneha,Singh,Male,2001-03-18,sneha.singh.00532@student.example.edu,8818012241,Civil Engineering,2023-06-19,8.56
+STU00533,Meera,Rao,Male,2000-05-22,meera.rao.00533@student.example.edu,9459294749,Commerce,2022-04-27,9.29
+STU00534,Maya,Sinha,Female,1998-02-20,maya.sinha.00534@student.example.edu,6109329542,Civil Engineering,2026-01-17,8.28
+STU00535,Rahul,Bhatia,Female,2003-09-16,rahul.bhatia.00535@student.example.edu,6151693971,Commerce,2026-02-17,7.92
+STU00536,Meera,Khan,Male,1999-12-27,meera.khan.00536@student.example.edu,8296240256,Physics,2025-11-06,8.19
+STU00537,Nikhil,Bansal,Female,1998-10-24,nikhil.bansal.00537@student.example.edu,8824433548,Electronics,2026-09-18,9.38
+STU00538,Neha,Mehta,Female,2000-10-19,neha.mehta.00538@student.example.edu,9471810472,Electronics,2026-01-25,7.8
+STU00539,Sneha,Saxena,Female,2002-12-20,sneha.saxena.00539@student.example.edu,9196357282,Mathematics,2023-04-03,9.36
+STU00540,Sneha,Reddy,Female,2001-08-05,sneha.reddy.00540@student.example.edu,9655935832,Computer Science,2024-08-07,5.59
+STU00541,Dhruv,Kulkarni,Male,1996-08-06,dhruv.kulkarni.00541@student.example.edu,9820055862,Information Technology,2024-08-25,5.97
+STU00542,Dev,Bansal,Female,1996-03-18,dev.bansal.00542@student.example.edu,6647588523,Mechanical Engineering,2026-10-16,5.69
+STU00543,Sneha,Malhotra,Other,2005-04-06,sneha.malhotra.00543@student.example.edu,7358856601,Electronics,2023-01-24,9.31
+STU00544,Kabir,Mishra,Female,1998-12-19,kabir.mishra.00544@student.example.edu,8725152347,Physics,2023-10-04,5.29
+STU00545,Karan,Iyer,Male,1998-10-13,karan.iyer.00545@student.example.edu,9283432667,Information Technology,2025-03-26,5.79
+STU00546,Ananya,Menon,Female,2004-08-18,ananya.menon.00546@student.example.edu,7842650262,Mathematics,2024-04-06,9.83
+STU00547,Aarav,Verma,Male,2003-05-15,aarav.verma.00547@student.example.edu,9831138280,Biotechnology,2022-01-29,6.61
+STU00548,Meera,Sharma,Male,2000-07-31,meera.sharma.00548@student.example.edu,8978666109,Civil Engineering,2023-04-09,9.38
+STU00549,Ananya,Mehta,Female,2008-03-15,ananya.mehta.00549@student.example.edu,6717346250,Computer Science,2026-01-22,5.33
+STU00550,Pooja,Patel,Female,2006-09-02,pooja.patel.00550@student.example.edu,7450990916,Electronics,2026-08-10,7.17
+STU00551,Sneha,Thomas,Male,1999-03-24,sneha.thomas.00551@student.example.edu,9895081081,Mathematics,2022-12-04,9.59
+STU00552,Vivaan,Kapoor,Female,1997-12-10,vivaan.kapoor.00552@student.example.edu,9152835101,Biotechnology,2023-03-09,5.11
+STU00553,Aadhya,Mehta,Female,1995-11-03,aadhya.mehta.00553@student.example.edu,9764728389,Biotechnology,2024-02-08,8.2
+STU00554,Krish,Verma,Male,1996-01-28,krish.verma.00554@student.example.edu,6464343720,Computer Science,2025-09-17,8.27
+STU00555,Arjun,Pillai,Female,2004-12-18,arjun.pillai.00555@student.example.edu,6530836767,Physics,2024-02-18,7.74
+STU00556,Diya,Iyer,Male,1995-03-18,diya.iyer.00556@student.example.edu,7807629146,Biotechnology,2023-09-09,8.31
+STU00557,Karan,Menon,Male,1998-01-28,karan.menon.00557@student.example.edu,9567626270,Biotechnology,2024-05-07,9.49
+STU00558,Krish,Mehta,Female,1997-05-20,krish.mehta.00558@student.example.edu,6853180912,Civil Engineering,2024-10-16,8.05
+STU00559,Sakshi,Iyer,Female,2004-03-10,sakshi.iyer.00559@student.example.edu,6688799369,Physics,2023-08-28,5.2
+STU00560,Saanvi,Pillai,Male,2002-06-01,saanvi.pillai.00560@student.example.edu,6011759631,Information Technology,2023-04-26,5.06
+STU00561,Rohan,Desai,Male,2006-01-30,rohan.desai.00561@student.example.edu,6386902139,Information Technology,2023-12-01,8.9
+STU00562,Reyansh,Thomas,Female,2000-03-08,reyansh.thomas.00562@student.example.edu,7271405590,Computer Science,2024-07-24,6.32
+STU00563,Reyansh,Desai,Female,1995-11-20,reyansh.desai.00563@student.example.edu,7247976542,Business Administration,2026-10-12,6.8
+STU00564,Varun,Ghosh,Female,1996-01-11,varun.ghosh.00564@student.example.edu,9659306670,Electronics,2022-01-20,5.69
+STU00565,Sneha,Reddy,Male,2001-01-06,sneha.reddy.00565@student.example.edu,6399222877,Business Administration,2026-02-10,6.86
+STU00566,Ira,Mehta,Female,2005-03-28,ira.mehta.00566@student.example.edu,9589340010,Physics,2023-10-05,6.93
+STU00567,Simran,Saxena,Male,1998-09-28,simran.saxena.00567@student.example.edu,6569132884,Computer Science,2022-08-20,8.48
+STU00568,Aadhya,Mehta,Female,2008-04-01,aadhya.mehta.00568@student.example.edu,9445701000,Physics,2026-08-08,7.84
+STU00569,Ira,Menon,Female,2003-01-16,ira.menon.00569@student.example.edu,6123764767,Electronics,2025-06-06,9.31
+STU00570,Aisha,Bhatia,Female,2004-03-23,aisha.bhatia.00570@student.example.edu,6197449658,Business Administration,2024-06-21,5.32
+STU00571,Aarav,Pillai,Male,2006-10-09,aarav.pillai.00571@student.example.edu,8876959590,Biotechnology,2025-01-09,9.37
+STU00572,Sakshi,Pillai,Male,1997-02-19,sakshi.pillai.00572@student.example.edu,8842036826,Physics,2024-06-05,8.63
+STU00573,Nikhil,Sinha,Male,2003-08-19,nikhil.sinha.00573@student.example.edu,9603619372,Commerce,2022-11-01,9.13
+STU00574,Arjun,Sharma,Male,1998-07-09,arjun.sharma.00574@student.example.edu,9645763976,Physics,2024-11-01,7.35
+STU00575,Aadhya,Gupta,Male,2002-03-11,aadhya.gupta.00575@student.example.edu,7421182517,Computer Science,2023-05-09,9.85
+STU00576,Manav,Kapoor,Male,2003-06-29,manav.kapoor.00576@student.example.edu,9509431976,Physics,2024-04-05,6.17
+STU00577,Tara,Chauhan,Male,1996-12-22,tara.chauhan.00577@student.example.edu,8140852855,Information Technology,2026-10-21,7.24
+STU00578,Zoya,Ghosh,Male,1997-04-20,zoya.ghosh.00578@student.example.edu,7770980600,Biotechnology,2024-04-06,5.18
+STU00579,Aarav,Desai,Female,2008-07-20,aarav.desai.00579@student.example.edu,8738205384,Biotechnology,2026-06-01,6.52
+STU00580,Arnav,Iyer,Male,2005-03-26,arnav.iyer.00580@student.example.edu,7560544045,Mechanical Engineering,2024-02-22,9.13
+STU00581,Yash,Khan,Male,2008-06-15,yash.khan.00581@student.example.edu,9078022953,Physics,2026-10-12,8.29
+STU00582,Rohan,Mehta,Male,1999-12-22,rohan.mehta.00582@student.example.edu,7466117662,Civil Engineering,2022-01-05,6.78
+STU00583,Arnav,Bansal,Female,1997-05-20,arnav.bansal.00583@student.example.edu,9852057916,Electronics,2022-04-04,5.82
+STU00584,Simran,Mehta,Female,1999-05-24,simran.mehta.00584@student.example.edu,6518599264,Mathematics,2023-01-20,9.65
+STU00585,Saanvi,Das,Male,1999-04-11,saanvi.das.00585@student.example.edu,7451413560,Mathematics,2026-01-07,5.54
+STU00586,Aditya,Bhatia,Male,2008-03-16,aditya.bhatia.00586@student.example.edu,9316338263,Physics,2025-07-20,9.46
+STU00587,Dhruv,Bansal,Female,2006-03-10,dhruv.bansal.00587@student.example.edu,8277897510,Biotechnology,2023-03-18,8.68
+STU00588,Varun,Desai,Male,2006-05-27,varun.desai.00588@student.example.edu,8971334438,Electronics,2024-05-23,7.89
+STU00589,Reyansh,Joshi,Male,2008-08-05,reyansh.joshi.00589@student.example.edu,7382308441,Mathematics,2026-10-30,7.52
+STU00590,Simran,Menon,Male,2000-07-26,simran.menon.00590@student.example.edu,7708838608,Civil Engineering,2023-07-15,9.82
+STU00591,Tara,Chauhan,Female,2004-04-04,tara.chauhan.00591@student.example.edu,9006538443,Biotechnology,2025-05-18,9.43
+STU00592,Pooja,Desai,Male,2002-01-15,pooja.desai.00592@student.example.edu,9164611982,Mechanical Engineering,2025-12-28,9.68
+STU00593,Meera,Iyer,Male,2001-07-08,meera.iyer.00593@student.example.edu,7483024614,Electronics,2025-11-07,9.61
+STU00594,Ira,Bansal,Male,2002-03-25,ira.bansal.00594@student.example.edu,6495661785,Biotechnology,2025-12-25,8.8
+STU00595,Aisha,Kulkarni,Male,2004-05-12,aisha.kulkarni.00595@student.example.edu,9212071708,Biotechnology,2025-10-12,9.47
+STU00596,Neha,Thomas,Male,1995-04-15,neha.thomas.00596@student.example.edu,6457287198,Electronics,2024-12-06,5.13
+STU00597,Arjun,Sinha,Female,2000-12-27,arjun.sinha.00597@student.example.edu,9373835078,Civil Engineering,2026-03-17,5.8
+STU00598,Rahul,Rao,Male,2001-08-14,rahul.rao.00598@student.example.edu,9236661365,Business Administration,2023-02-22,7.71
+STU00599,Tara,Mehta,Male,2007-08-08,tara.mehta.00599@student.example.edu,9188638426,Mathematics,2025-03-24,8.24
+STU00600,Priya,Bansal,Male,2001-06-14,priya.bansal.00600@student.example.edu,8853978147,Mathematics,2025-11-20,5.23
+STU00601,Dev,Malhotra,Male,2002-01-05,dev.malhotra.00601@student.example.edu,6231078662,Civil Engineering,2025-02-04,5.06
+STU00602,Meera,Menon,Male,2004-12-08,meera.menon.00602@student.example.edu,6968723414,Business Administration,2026-08-27,9.56
+STU00603,Dhruv,Chopra,Male,1999-05-29,dhruv.chopra.00603@student.example.edu,9113484131,Civil Engineering,2026-05-09,9.82
+STU00604,Tara,Nair,Other,1996-09-02,tara.nair.00604@student.example.edu,6746444391,Information Technology,2023-01-18,8.68
+STU00605,Dev,Verma,Female,2007-06-26,dev.verma.00605@student.example.edu,6558631501,Civil Engineering,2025-03-22,5.8
+STU00606,Aarav,Khan,Female,1998-06-22,aarav.khan.00606@student.example.edu,6660150996,Commerce,2022-03-23,9.64
+STU00607,Arjun,Agarwal,Male,2008-10-22,arjun.agarwal.00607@student.example.edu,7293450101,Commerce,2026-09-25,7.45
+STU00608,Arnav,Reddy,Female,2002-02-16,arnav.reddy.00608@student.example.edu,6944729659,Biotechnology,2024-12-12,9.78
+STU00609,Ishaan,Chauhan,Male,2004-04-30,ishaan.chauhan.00609@student.example.edu,8306551869,Business Administration,2025-01-17,7.02
+STU00610,Kavya,Thomas,Female,2002-06-11,kavya.thomas.00610@student.example.edu,7549614875,Commerce,2023-11-10,6.47
+STU00611,Sakshi,Mishra,Other,1995-03-14,sakshi.mishra.00611@student.example.edu,8873068834,Mechanical Engineering,2022-08-23,6.73
+STU00612,Krish,Bhatia,Male,1995-11-23,krish.bhatia.00612@student.example.edu,9803881422,Information Technology,2025-10-29,6.6
+STU00613,Dev,Singh,Male,2001-05-05,dev.singh.00613@student.example.edu,9914158014,Business Administration,2022-02-20,7.58
+STU00614,Manav,Chauhan,Male,2005-12-01,manav.chauhan.00614@student.example.edu,7273174184,Mechanical Engineering,2023-02-28,9.49
+STU00615,Amit,Bansal,Female,1997-02-25,amit.bansal.00615@student.example.edu,9321377743,Computer Science,2022-12-09,7.69
+STU00616,Ishaan,Iyer,Male,1999-10-13,ishaan.iyer.00616@student.example.edu,8943792834,Information Technology,2026-11-07,7.12
+STU00617,Saanvi,Chopra,Male,2004-10-05,saanvi.chopra.00617@student.example.edu,9507933204,Electronics,2025-08-17,9.7
+STU00618,Vivaan,Das,Male,1995-11-07,vivaan.das.00618@student.example.edu,6314597900,Civil Engineering,2022-06-29,5.27
+STU00619,Arnav,Gupta,Male,2000-02-08,arnav.gupta.00619@student.example.edu,7750769451,Mathematics,2023-06-14,6.94
+STU00620,Varun,Khan,Female,1997-08-27,varun.khan.00620@student.example.edu,6025335682,Commerce,2024-12-31,8.21
+STU00621,Ishaan,Agarwal,Male,1996-01-08,ishaan.agarwal.00621@student.example.edu,9643211329,Biotechnology,2025-12-06,5.36
+STU00622,Reyansh,Patel,Male,2001-10-04,reyansh.patel.00622@student.example.edu,6371537098,Physics,2025-05-27,6.41
+STU00623,Dev,Joshi,Male,1995-09-10,dev.joshi.00623@student.example.edu,6671404204,Electronics,2024-08-28,7.67
+STU00624,Maya,Chauhan,Male,2007-03-29,maya.chauhan.00624@student.example.edu,8723205427,Business Administration,2025-01-24,5.72
+STU00625,Aarav,Chopra,Male,1998-03-04,aarav.chopra.00625@student.example.edu,6179414276,Commerce,2022-09-10,5.03
+STU00626,Maya,Chopra,Male,1996-11-28,maya.chopra.00626@student.example.edu,6902170293,Business Administration,2023-09-17,8.74
+STU00627,Saanvi,Malhotra,Male,2006-06-30,saanvi.malhotra.00627@student.example.edu,6691293717,Commerce,2024-04-16,5.92
+STU00628,Rahul,Iyer,Female,2007-09-22,rahul.iyer.00628@student.example.edu,9656682429,Biotechnology,2024-11-15,8.76
+STU00629,Yash,Saxena,Male,2001-07-09,yash.saxena.00629@student.example.edu,6289320836,Mechanical Engineering,2025-10-07,6.25
+STU00630,Dhruv,Mishra,Male,2003-01-04,dhruv.mishra.00630@student.example.edu,8883192498,Information Technology,2022-09-20,8.28
+STU00631,Neha,Menon,Female,1999-05-05,neha.menon.00631@student.example.edu,8086758111,Commerce,2023-10-13,7.25
+STU00632,Pooja,Pillai,Male,2007-09-08,pooja.pillai.00632@student.example.edu,7565487367,Mathematics,2026-04-10,9.04
+STU00633,Aadhya,Sharma,Female,1999-12-20,aadhya.sharma.00633@student.example.edu,9177486462,Civil Engineering,2025-12-29,8.2
+STU00634,Riya,Rao,Male,2002-06-09,riya.rao.00634@student.example.edu,7987918631,Civil Engineering,2024-09-09,7.23
+STU00635,Zoya,Chopra,Female,2008-08-09,zoya.chopra.00635@student.example.edu,9615473387,Electronics,2025-09-19,6.4
+STU00636,Ishita,Iyer,Female,1996-09-18,ishita.iyer.00636@student.example.edu,6323840346,Biotechnology,2026-01-29,9.46
+STU00637,Vivaan,Desai,Male,2004-02-01,vivaan.desai.00637@student.example.edu,8534186676,Computer Science,2026-04-25,6.06
+STU00638,Arnav,Singh,Male,2007-02-08,arnav.singh.00638@student.example.edu,8808514071,Business Administration,2025-06-05,8.88
+STU00639,Maya,Kapoor,Male,2008-03-23,maya.kapoor.00639@student.example.edu,6575015625,Biotechnology,2026-01-14,7.32
+STU00640,Kabir,Joshi,Female,1995-03-28,kabir.joshi.00640@student.example.edu,7025985237,Commerce,2025-09-19,9.24
+STU00641,Aadhya,Agarwal,Male,2005-01-03,aadhya.agarwal.00641@student.example.edu,6769422699,Commerce,2022-11-25,7.83
+STU00642,Diya,Ghosh,Male,2003-01-18,diya.ghosh.00642@student.example.edu,6939820934,Mechanical Engineering,2022-03-24,8.81
+STU00643,Ishaan,Singh,Female,1995-12-17,ishaan.singh.00643@student.example.edu,6888087890,Business Administration,2025-10-01,7.59
+STU00644,Dev,Mishra,Male,1996-01-16,dev.mishra.00644@student.example.edu,8785392585,Biotechnology,2022-03-23,6.62
+STU00645,Karan,Desai,Male,2007-12-24,karan.desai.00645@student.example.edu,8448819206,Mathematics,2026-07-03,5.87
+STU00646,Riya,Kulkarni,Male,1996-09-29,riya.kulkarni.00646@student.example.edu,7080555408,Mechanical Engineering,2024-11-24,6.88
+STU00647,Sakshi,Joshi,Female,2002-09-27,sakshi.joshi.00647@student.example.edu,9404437849,Commerce,2024-09-24,7.41
+STU00648,Aarav,Bansal,Male,2004-11-12,aarav.bansal.00648@student.example.edu,6987802843,Civil Engineering,2022-12-06,5.39
+STU00649,Saanvi,Rao,Female,2003-02-15,saanvi.rao.00649@student.example.edu,9080791678,Mechanical Engineering,2025-05-17,9.08
+STU00650,Simran,Chauhan,Female,1997-07-17,simran.chauhan.00650@student.example.edu,8900088306,Mechanical Engineering,2024-09-13,7.39
+STU00651,Dhruv,Nair,Male,2004-03-20,dhruv.nair.00651@student.example.edu,7046556006,Commerce,2022-02-15,5.22
+STU00652,Dhruv,Nair,Female,2006-07-01,dhruv.nair.00652@student.example.edu,9825946852,Computer Science,2023-09-19,7.86
+STU00653,Aadhya,Singh,Male,2006-08-03,aadhya.singh.00653@student.example.edu,8574220936,Computer Science,2025-11-10,9.85
+STU00654,Neha,Gupta,Female,2008-08-08,neha.gupta.00654@student.example.edu,9725035441,Mechanical Engineering,2026-04-06,7.41
+STU00655,Simran,Menon,Female,2008-01-26,simran.menon.00655@student.example.edu,8676674027,Civil Engineering,2025-07-30,8.3
+STU00656,Aadhya,Ghosh,Male,2005-03-03,aadhya.ghosh.00656@student.example.edu,8536590481,Mathematics,2025-07-06,5.34
+STU00657,Dev,Rao,Female,1999-07-16,dev.rao.00657@student.example.edu,9691918197,Mathematics,2024-12-06,9.55
+STU00658,Diya,Menon,Female,2005-09-03,diya.menon.00658@student.example.edu,8576180666,Biotechnology,2026-02-13,5.2
+STU00659,Manav,Agarwal,Female,2005-10-25,manav.agarwal.00659@student.example.edu,6559758111,Biotechnology,2026-07-06,9.51
+STU00660,Aarav,Thomas,Male,2004-09-04,aarav.thomas.00660@student.example.edu,7806824124,Computer Science,2024-12-05,6.85
+STU00661,Sakshi,Malhotra,Female,2005-10-24,sakshi.malhotra.00661@student.example.edu,7505462528,Commerce,2024-12-12,7.95
+STU00662,Reyansh,Malhotra,Female,2005-09-13,reyansh.malhotra.00662@student.example.edu,9908786838,Civil Engineering,2024-01-02,9.3
+STU00663,Anika,Thomas,Male,2000-10-12,anika.thomas.00663@student.example.edu,6023491105,Computer Science,2023-01-23,8.55
+STU00664,Naina,Bansal,Female,1995-02-28,naina.bansal.00664@student.example.edu,8811254192,Business Administration,2024-02-08,6.03
+STU00665,Simran,Reddy,Female,2004-07-22,simran.reddy.00665@student.example.edu,8514145814,Biotechnology,2025-08-27,6.27
+STU00666,Varun,Kulkarni,Female,2001-03-07,varun.kulkarni.00666@student.example.edu,7707052548,Mathematics,2025-10-25,8.77
+STU00667,Arnav,Chauhan,Male,1999-01-04,arnav.chauhan.00667@student.example.edu,8401289703,Civil Engineering,2024-01-29,7.77
+STU00668,Pooja,Kulkarni,Female,2003-12-06,pooja.kulkarni.00668@student.example.edu,6592999772,Information Technology,2026-02-15,9.27
+STU00669,Kavya,Das,Male,1998-08-18,kavya.das.00669@student.example.edu,6921090693,Business Administration,2022-07-25,7.54
+STU00670,Arnav,Menon,Male,1996-03-02,arnav.menon.00670@student.example.edu,7671187564,Computer Science,2022-11-26,9.82
+STU00671,Kabir,Desai,Female,2008-06-18,kabir.desai.00671@student.example.edu,6378561387,Mechanical Engineering,2026-09-06,5.32
+STU00672,Riya,Gupta,Male,2003-08-15,riya.gupta.00672@student.example.edu,8636962116,Civil Engineering,2024-03-31,8.28
+STU00673,Anika,Verma,Male,1998-12-06,anika.verma.00673@student.example.edu,8123296018,Mechanical Engineering,2025-08-04,7.19
+STU00674,Sakshi,Patel,Female,2008-06-12,sakshi.patel.00674@student.example.edu,8642220886,Computer Science,2026-02-04,5.85
+STU00675,Riya,Kapoor,Male,1998-07-13,riya.kapoor.00675@student.example.edu,7185139825,Business Administration,2022-06-27,8.9
+STU00676,Maya,Joshi,Male,2006-08-12,maya.joshi.00676@student.example.edu,9165071083,Information Technology,2023-09-12,8.52
+STU00677,Arnav,Patel,Male,2007-07-17,arnav.patel.00677@student.example.edu,7495057700,Civil Engineering,2026-03-04,6.74
+STU00678,Kavya,Menon,Male,2005-03-14,kavya.menon.00678@student.example.edu,8469205576,Electronics,2024-06-18,5.02
+STU00679,Simran,Bansal,Female,1996-08-15,simran.bansal.00679@student.example.edu,7263801968,Information Technology,2024-10-27,6.7
+STU00680,Manav,Singh,Male,2007-11-23,manav.singh.00680@student.example.edu,8981531341,Mathematics,2025-08-05,7.21
+STU00681,Naina,Mishra,Male,2002-08-14,naina.mishra.00681@student.example.edu,7970738992,Commerce,2026-05-08,8.41
+STU00682,Vivaan,Mishra,Female,1996-07-07,vivaan.mishra.00682@student.example.edu,8721556673,Mechanical Engineering,2024-02-23,8.94
+STU00683,Kavya,Chauhan,Female,2002-12-02,kavya.chauhan.00683@student.example.edu,8300607428,Civil Engineering,2024-11-23,5.05
+STU00684,Priya,Patel,Female,2002-09-02,priya.patel.00684@student.example.edu,8381780551,Physics,2022-06-05,9.66
+STU00685,Amit,Reddy,Female,2007-11-13,amit.reddy.00685@student.example.edu,6785053225,Mechanical Engineering,2025-08-14,9.74
+STU00686,Zoya,Ghosh,Female,2000-06-05,zoya.ghosh.00686@student.example.edu,6888107487,Mechanical Engineering,2023-06-28,6.15
+STU00687,Krish,Reddy,Female,1997-05-23,krish.reddy.00687@student.example.edu,9952177946,Physics,2022-09-03,5.39
+STU00688,Krish,Sharma,Male,2007-02-22,krish.sharma.00688@student.example.edu,6181518732,Business Administration,2026-10-29,9.24
+STU00689,Krish,Khan,Male,2007-11-20,krish.khan.00689@student.example.edu,8107992942,Biotechnology,2025-08-27,5.91
+STU00690,Karan,Joshi,Female,2007-12-08,karan.joshi.00690@student.example.edu,6232564616,Mathematics,2025-04-17,7.63
+STU00691,Aisha,Chopra,Female,2002-10-15,aisha.chopra.00691@student.example.edu,9695390421,Electronics,2024-03-17,8.43
+STU00692,Yash,Mehta,Male,2005-04-26,yash.mehta.00692@student.example.edu,8960136787,Mechanical Engineering,2024-02-01,5.04
+STU00693,Dev,Kulkarni,Female,2003-02-10,dev.kulkarni.00693@student.example.edu,9701583308,Biotechnology,2025-06-08,6.3
+STU00694,Rahul,Kapoor,Female,2008-10-01,rahul.kapoor.00694@student.example.edu,7571632270,Mathematics,2026-03-25,5.92
+STU00695,Saanvi,Malhotra,Male,2003-05-08,saanvi.malhotra.00695@student.example.edu,9669302613,Physics,2024-01-18,7
+STU00696,Ira,Kulkarni,Female,2007-12-01,ira.kulkarni.00696@student.example.edu,6981686710,Civil Engineering,2026-11-02,9.07
+STU00697,Priya,Chopra,Female,2003-07-18,priya.chopra.00697@student.example.edu,6626394068,Electronics,2023-02-06,9
+STU00698,Aisha,Chauhan,Female,2004-06-15,aisha.chauhan.00698@student.example.edu,6577551466,Biotechnology,2024-10-20,9.98
+STU00699,Ishita,Ghosh,Female,2005-11-30,ishita.ghosh.00699@student.example.edu,7077925250,Commerce,2024-08-05,7.81
+STU00700,Arjun,Joshi,Female,1998-08-31,arjun.joshi.00700@student.example.edu,6925425090,Physics,2022-05-03,9.07
+STU00701,Reyansh,Das,Male,2000-10-29,reyansh.das.00701@student.example.edu,7547504991,Civil Engineering,2024-01-10,7.8
+STU00702,Nikhil,Sharma,Female,2002-11-16,nikhil.sharma.00702@student.example.edu,8918798987,Mechanical Engineering,2026-11-12,9.82
+STU00703,Naina,Kulkarni,Male,2007-01-28,naina.kulkarni.00703@student.example.edu,9351402058,Business Administration,2024-07-24,6.42
+STU00704,Manav,Mishra,Male,2005-01-09,manav.mishra.00704@student.example.edu,7636687473,Physics,2022-06-18,8.07
+STU00705,Diya,Jain,Female,2002-07-26,diya.jain.00705@student.example.edu,8711298634,Mathematics,2024-05-13,8.06
+STU00706,Ishaan,Gupta,Female,2000-02-13,ishaan.gupta.00706@student.example.edu,7360981688,Civil Engineering,2023-10-05,8.27
+STU00707,Anika,Saxena,Female,2004-12-23,anika.saxena.00707@student.example.edu,9705725627,Commerce,2026-05-19,9.69
+STU00708,Sakshi,Das,Female,1999-02-15,sakshi.das.00708@student.example.edu,6099218439,Mechanical Engineering,2026-10-16,5.63
+STU00709,Rahul,Ghosh,Male,1996-10-17,rahul.ghosh.00709@student.example.edu,6716875001,Information Technology,2023-03-08,6.99
+STU00710,Ishaan,Bhatia,Male,2007-04-20,ishaan.bhatia.00710@student.example.edu,6113236420,Biotechnology,2024-06-13,8.85
+STU00711,Kabir,Mehta,Female,1998-06-26,kabir.mehta.00711@student.example.edu,8812484901,Mathematics,2022-06-22,9.66
+STU00712,Pooja,Kapoor,Female,2001-05-16,pooja.kapoor.00712@student.example.edu,8690714075,Biotechnology,2024-06-26,5.63
+STU00713,Aadhya,Sharma,Female,2003-01-02,aadhya.sharma.00713@student.example.edu,9931064960,Physics,2026-10-29,6.63
+STU00714,Yash,Jain,Male,2001-02-09,yash.jain.00714@student.example.edu,7910594463,Biotechnology,2025-01-28,5.68
+STU00715,Ira,Kulkarni,Male,2007-08-26,ira.kulkarni.00715@student.example.edu,8248242739,Biotechnology,2025-11-13,8.2
+STU00716,Pooja,Bhatia,Female,2007-02-07,pooja.bhatia.00716@student.example.edu,9456193555,Civil Engineering,2024-09-26,5.45
+STU00717,Riya,Malhotra,Female,2001-10-22,riya.malhotra.00717@student.example.edu,6000396634,Electronics,2022-01-22,7.62
+STU00718,Nikhil,Patel,Female,1995-03-10,nikhil.patel.00718@student.example.edu,9960339514,Physics,2025-11-09,7.46
+STU00719,Pooja,Sharma,Male,2001-07-27,pooja.sharma.00719@student.example.edu,6993062551,Biotechnology,2025-05-07,8.98
+STU00720,Riya,Iyer,Female,2007-07-29,riya.iyer.00720@student.example.edu,7695447268,Mathematics,2025-10-18,6.25
+STU00721,Dev,Kapoor,Female,2004-06-20,dev.kapoor.00721@student.example.edu,7028910147,Commerce,2025-07-04,7.58
+STU00722,Karan,Patel,Male,2006-12-06,karan.patel.00722@student.example.edu,7773408660,Information Technology,2025-06-08,5.94
+STU00723,Ira,Rao,Female,2005-03-19,ira.rao.00723@student.example.edu,7944620470,Commerce,2025-09-04,6.36
+STU00724,Zoya,Iyer,Female,1998-05-31,zoya.iyer.00724@student.example.edu,8297681898,Information Technology,2022-04-12,5.11
+STU00725,Neha,Singh,Female,2004-10-31,neha.singh.00725@student.example.edu,6035236295,Electronics,2026-01-29,6.16
+STU00726,Aarav,Mishra,Female,2004-06-04,aarav.mishra.00726@student.example.edu,9374664629,Business Administration,2023-10-01,9
+STU00727,Yash,Pillai,Male,2002-05-29,yash.pillai.00727@student.example.edu,9623003768,Electronics,2022-06-14,8.75
+STU00728,Arjun,Singh,Male,1996-08-07,arjun.singh.00728@student.example.edu,8019265031,Civil Engineering,2025-01-17,5.91
+STU00729,Dev,Desai,Female,2000-08-01,dev.desai.00729@student.example.edu,9312387558,Mechanical Engineering,2024-02-28,9.87
+STU00730,Aditya,Iyer,Female,1997-02-08,aditya.iyer.00730@student.example.edu,8860482054,Physics,2024-12-03,9.91
+STU00731,Dev,Sinha,Male,2002-03-31,dev.sinha.00731@student.example.edu,8702239879,Biotechnology,2022-11-21,8.64
+STU00732,Sakshi,Mehta,Female,2001-09-13,sakshi.mehta.00732@student.example.edu,7548020689,Mechanical Engineering,2023-02-11,9.44
+STU00733,Rohan,Kapoor,Male,2002-04-12,rohan.kapoor.00733@student.example.edu,6718807242,Commerce,2022-01-31,8.97
+STU00734,Rohan,Joshi,Male,1995-03-15,rohan.joshi.00734@student.example.edu,8495706809,Physics,2022-03-28,8.92
+STU00735,Anika,Rao,Female,1997-01-03,anika.rao.00735@student.example.edu,6677309706,Commerce,2023-05-25,7.5
+STU00736,Sneha,Bhatia,Male,1996-05-06,sneha.bhatia.00736@student.example.edu,7526936792,Biotechnology,2022-05-03,8.22
+STU00737,Reyansh,Rao,Female,2002-02-07,reyansh.rao.00737@student.example.edu,9386847262,Business Administration,2025-02-17,8.22
+STU00738,Tara,Ghosh,Female,2003-06-22,tara.ghosh.00738@student.example.edu,9111270714,Computer Science,2024-01-04,5.67
+STU00739,Zoya,Pillai,Female,2001-08-11,zoya.pillai.00739@student.example.edu,8993754459,Commerce,2025-01-16,7.45
+STU00740,Ira,Chopra,Female,2005-07-04,ira.chopra.00740@student.example.edu,9726579225,Biotechnology,2024-01-18,9.16
+STU00741,Aadhya,Gupta,Male,2005-01-29,aadhya.gupta.00741@student.example.edu,9519375872,Business Administration,2023-09-26,6.32
+STU00742,Yash,Sharma,Male,2006-05-07,yash.sharma.00742@student.example.edu,9151036012,Computer Science,2025-06-21,5.93
+STU00743,Krish,Jain,Female,2000-05-10,krish.jain.00743@student.example.edu,9096686730,Biotechnology,2023-10-19,5.32
+STU00744,Dev,Iyer,Male,2006-02-27,dev.iyer.00744@student.example.edu,6661989794,Business Administration,2026-04-01,8.07
+STU00745,Simran,Saxena,Female,1997-02-27,simran.saxena.00745@student.example.edu,8829915449,Electronics,2024-12-07,5.33
+STU00746,Ira,Jain,Female,1997-05-26,ira.jain.00746@student.example.edu,6822987217,Commerce,2024-09-21,5.49
+STU00747,Dev,Sinha,Female,2008-03-28,dev.sinha.00747@student.example.edu,6210821160,Commerce,2025-12-15,6.83
+STU00748,Ishaan,Sharma,Male,1999-09-06,ishaan.sharma.00748@student.example.edu,8110570534,Information Technology,2025-09-04,9.64
+STU00749,Yash,Chauhan,Male,2003-02-04,yash.chauhan.00749@student.example.edu,9193211278,Mathematics,2025-02-16,9.69
+STU00750,Riya,Chauhan,Male,2008-11-01,riya.chauhan.00750@student.example.edu,8272127173,Information Technology,2026-03-17,5.2
+STU00751,Pooja,Gupta,Male,2006-08-26,pooja.gupta.00751@student.example.edu,6434758564,Biotechnology,2024-03-11,8.63
+STU00752,Dev,Iyer,Female,2000-07-30,dev.iyer.00752@student.example.edu,8685750629,Biotechnology,2025-03-13,9.74
+STU00753,Arnav,Malhotra,Male,2007-12-07,arnav.malhotra.00753@student.example.edu,8896923497,Mathematics,2025-12-07,7.29
+STU00754,Reyansh,Nair,Male,2007-05-03,reyansh.nair.00754@student.example.edu,8167639004,Electronics,2025-06-17,6.69
+STU00755,Ishita,Menon,Female,2002-11-26,ishita.menon.00755@student.example.edu,8362581359,Business Administration,2023-10-08,9.96
+STU00756,Riya,Malhotra,Male,2004-08-28,riya.malhotra.00756@student.example.edu,9117577972,Mechanical Engineering,2026-08-19,6.62
+STU00757,Naina,Chopra,Female,2007-05-05,naina.chopra.00757@student.example.edu,7091304489,Physics,2026-06-05,6.8
+STU00758,Tara,Joshi,Female,1995-10-11,tara.joshi.00758@student.example.edu,8558781873,Electronics,2023-08-06,5.08
+STU00759,Pooja,Sharma,Female,1999-12-23,pooja.sharma.00759@student.example.edu,9675291263,Civil Engineering,2023-03-16,6.57
+STU00760,Arnav,Bansal,Male,2007-10-27,arnav.bansal.00760@student.example.edu,6404960131,Business Administration,2025-04-02,5.19
+STU00761,Diya,Rao,Female,2008-01-22,diya.rao.00761@student.example.edu,7000702246,Civil Engineering,2025-10-03,6.28
+STU00762,Kabir,Kulkarni,Female,1999-11-17,kabir.kulkarni.00762@student.example.edu,6331578205,Physics,2026-02-12,8.62
+STU00763,Ira,Mishra,Male,2007-12-04,ira.mishra.00763@student.example.edu,8556498528,Computer Science,2025-03-10,8.21
+STU00764,Naina,Joshi,Female,1996-04-03,naina.joshi.00764@student.example.edu,7436192596,Mathematics,2026-04-28,6.74
+STU00765,Simran,Bhatia,Male,2000-02-01,simran.bhatia.00765@student.example.edu,8803665224,Computer Science,2026-03-12,9.25
+STU00766,Dev,Verma,Female,1995-12-04,dev.verma.00766@student.example.edu,8318980522,Business Administration,2023-10-16,7.82
+STU00767,Manav,Pillai,Female,1996-02-18,manav.pillai.00767@student.example.edu,9142106042,Physics,2025-10-11,9.99
+STU00768,Anika,Kulkarni,Male,1999-12-25,anika.kulkarni.00768@student.example.edu,7244608630,Electronics,2024-06-03,8.93
+STU00769,Ananya,Khan,Female,2007-10-26,ananya.khan.00769@student.example.edu,8354296652,Information Technology,2024-12-14,7
+STU00770,Maya,Bansal,Female,1997-12-04,maya.bansal.00770@student.example.edu,6579265528,Mechanical Engineering,2026-04-10,7.4
+STU00771,Zoya,Joshi,Male,1999-05-26,zoya.joshi.00771@student.example.edu,8645686265,Biotechnology,2025-02-23,9.99
+STU00772,Priya,Kapoor,Female,2004-08-24,priya.kapoor.00772@student.example.edu,8940927197,Information Technology,2023-10-25,9.62
+STU00773,Rohan,Sinha,Female,2003-03-12,rohan.sinha.00773@student.example.edu,6818147210,Commerce,2023-12-15,6.6
+STU00774,Vivaan,Agarwal,Female,2002-11-04,vivaan.agarwal.00774@student.example.edu,9528676629,Physics,2025-06-16,9.95
+STU00775,Krish,Rao,Female,2000-03-27,krish.rao.00775@student.example.edu,8943595471,Information Technology,2023-02-13,6.87
+STU00776,Rohan,Ghosh,Female,1998-04-24,rohan.ghosh.00776@student.example.edu,9522448525,Business Administration,2026-09-01,6.44
+STU00777,Rohan,Patel,Female,1995-07-06,rohan.patel.00777@student.example.edu,6897689138,Mechanical Engineering,2023-11-11,8.7
+STU00778,Saanvi,Chopra,Male,2000-10-19,saanvi.chopra.00778@student.example.edu,8074582277,Electronics,2025-01-28,8.12
+STU00779,Vivaan,Joshi,Male,2006-10-25,vivaan.joshi.00779@student.example.edu,7097176652,Civil Engineering,2024-01-22,5.85
+STU00780,Meera,Chauhan,Male,2001-01-31,meera.chauhan.00780@student.example.edu,7996991502,Computer Science,2022-04-19,8.27
+STU00781,Ishaan,Joshi,Male,2003-01-29,ishaan.joshi.00781@student.example.edu,6463390201,Mathematics,2026-11-06,5.1
+STU00782,Kavya,Joshi,Male,1997-03-26,kavya.joshi.00782@student.example.edu,8081608088,Biotechnology,2023-10-09,9.33
+STU00783,Kabir,Nair,Female,2005-04-09,kabir.nair.00783@student.example.edu,9978642846,Computer Science,2025-05-31,8.56
+STU00784,Priya,Bhatia,Male,2002-06-25,priya.bhatia.00784@student.example.edu,7689639333,Computer Science,2024-09-30,8.72
+STU00785,Nikhil,Sinha,Female,2001-10-12,nikhil.sinha.00785@student.example.edu,8152858629,Computer Science,2023-04-29,6.38
+STU00786,Rahul,Thomas,Female,1995-08-30,rahul.thomas.00786@student.example.edu,7203423402,Business Administration,2025-02-10,6.13
+STU00787,Maya,Sinha,Female,2003-07-29,maya.sinha.00787@student.example.edu,8911965893,Mechanical Engineering,2024-12-02,8.06
+STU00788,Simran,Kapoor,Male,2004-07-25,simran.kapoor.00788@student.example.edu,9907283761,Physics,2023-10-02,8.03
+STU00789,Ishita,Rao,Female,1998-02-09,ishita.rao.00789@student.example.edu,8325096977,Mechanical Engineering,2025-04-04,8.42
+STU00790,Ananya,Patel,Male,2006-10-01,ananya.patel.00790@student.example.edu,7847112068,Electronics,2024-07-03,9.98
+STU00791,Naina,Bhatia,Female,1996-07-09,naina.bhatia.00791@student.example.edu,8289052391,Information Technology,2025-02-15,9.74
+STU00792,Ira,Khan,Male,1998-04-07,ira.khan.00792@student.example.edu,6126630005,Mathematics,2026-01-29,8.83
+STU00793,Simran,Patel,Female,2001-02-20,simran.patel.00793@student.example.edu,9346242886,Electronics,2022-11-08,5.94
+STU00794,Ira,Sharma,Male,2008-09-22,ira.sharma.00794@student.example.edu,7146166176,Commerce,2026-08-03,8.03
+STU00795,Kavya,Menon,Female,1995-08-02,kavya.menon.00795@student.example.edu,6341344355,Physics,2024-01-06,8.44
+STU00796,Ananya,Bansal,Male,2005-07-07,ananya.bansal.00796@student.example.edu,8789875688,Mathematics,2026-07-04,6.87
+STU00797,Zoya,Mishra,Female,1999-05-03,zoya.mishra.00797@student.example.edu,6138424884,Computer Science,2023-04-09,7.04
+STU00798,Karan,Malhotra,Female,1999-07-20,karan.malhotra.00798@student.example.edu,6878587567,Physics,2026-04-01,5.33
+STU00799,Krish,Mishra,Male,2005-04-06,krish.mishra.00799@student.example.edu,7836337675,Computer Science,2023-08-24,7.02
+STU00800,Anika,Ghosh,Male,2002-01-07,anika.ghosh.00800@student.example.edu,8626393424,Commerce,2024-03-18,9.7
+STU00801,Anika,Chopra,Male,1995-11-12,anika.chopra.00801@student.example.edu,6469509900,Computer Science,2024-12-02,7.26
+STU00802,Priya,Bansal,Male,1995-11-18,priya.bansal.00802@student.example.edu,7663861118,Computer Science,2025-02-16,7.58
+STU00803,Meera,Patel,Female,2001-10-30,meera.patel.00803@student.example.edu,9554605180,Electronics,2026-05-04,6.43
+STU00804,Varun,Patel,Male,1996-03-22,varun.patel.00804@student.example.edu,8220367731,Physics,2025-11-14,9.52
+STU00805,Tara,Gupta,Male,1997-07-16,tara.gupta.00805@student.example.edu,9344624788,Biotechnology,2023-01-04,7.93
+STU00806,Ananya,Joshi,Female,2005-02-10,ananya.joshi.00806@student.example.edu,6768277634,Mechanical Engineering,2022-04-02,7.27
+STU00807,Yash,Gupta,Female,1998-09-05,yash.gupta.00807@student.example.edu,9149337748,Information Technology,2026-01-11,5.62
+STU00808,Tara,Saxena,Female,2006-10-01,tara.saxena.00808@student.example.edu,9121899351,Biotechnology,2025-11-25,8.96
+STU00809,Krish,Nair,Female,2003-07-15,krish.nair.00809@student.example.edu,9299652989,Business Administration,2022-03-31,5.85
+STU00810,Naina,Jain,Male,1998-05-14,naina.jain.00810@student.example.edu,9731547225,Computer Science,2022-11-29,5.72
+STU00811,Simran,Patel,Female,2005-01-03,simran.patel.00811@student.example.edu,8690594504,Electronics,2023-08-17,5.9
+STU00812,Meera,Sharma,Male,2000-09-04,meera.sharma.00812@student.example.edu,7969855215,Physics,2022-01-26,7.49
+STU00813,Ishita,Chauhan,Female,2006-01-25,ishita.chauhan.00813@student.example.edu,6931466076,Physics,2024-05-26,7.94
+STU00814,Yash,Malhotra,Female,2008-06-26,yash.malhotra.00814@student.example.edu,6028230917,Biotechnology,2026-04-29,6.22
+STU00815,Karan,Menon,Male,1999-08-28,karan.menon.00815@student.example.edu,6793881710,Business Administration,2022-04-11,5.74
+STU00816,Aditya,Rao,Male,2007-12-19,aditya.rao.00816@student.example.edu,7281796685,Information Technology,2026-08-27,6.66
+STU00817,Arjun,Mehta,Female,1998-12-31,arjun.mehta.00817@student.example.edu,8886606705,Commerce,2022-11-27,6.42
+STU00818,Naina,Chauhan,Male,2005-03-19,naina.chauhan.00818@student.example.edu,8486641280,Computer Science,2026-05-31,6.8
+STU00819,Kabir,Agarwal,Female,2003-04-08,kabir.agarwal.00819@student.example.edu,9523010269,Mathematics,2024-02-16,5.34
+STU00820,Arnav,Gupta,Female,1998-01-07,arnav.gupta.00820@student.example.edu,8983367767,Business Administration,2022-09-07,9.3
+STU00821,Sakshi,Malhotra,Male,1999-09-09,sakshi.malhotra.00821@student.example.edu,6249900899,Biotechnology,2025-06-07,5.55
+STU00822,Kabir,Mishra,Male,2008-07-25,kabir.mishra.00822@student.example.edu,9035707132,Commerce,2026-09-01,6.44
+STU00823,Amit,Singh,Male,2002-12-08,amit.singh.00823@student.example.edu,8638355374,Biotechnology,2022-09-23,7.81
+STU00824,Zoya,Mishra,Male,2008-09-01,zoya.mishra.00824@student.example.edu,9043358286,Mechanical Engineering,2025-12-29,6.45
+STU00825,Aarav,Mehta,Female,1997-08-24,aarav.mehta.00825@student.example.edu,9642432004,Commerce,2026-02-19,6.04
+STU00826,Simran,Malhotra,Female,2002-11-04,simran.malhotra.00826@student.example.edu,9461930528,Computer Science,2025-02-21,8.19
+STU00827,Meera,Pillai,Female,1996-07-09,meera.pillai.00827@student.example.edu,7289709951,Business Administration,2023-09-23,7.53
+STU00828,Aarav,Mehta,Male,2002-08-28,aarav.mehta.00828@student.example.edu,9111259884,Computer Science,2024-03-22,7.84
+STU00829,Ira,Iyer,Female,2002-07-31,ira.iyer.00829@student.example.edu,8057754346,Computer Science,2025-10-09,9.58
+STU00830,Ananya,Mishra,Female,2005-05-01,ananya.mishra.00830@student.example.edu,9847984045,Mathematics,2025-05-04,6.68
+STU00831,Arjun,Desai,Male,2007-09-03,arjun.desai.00831@student.example.edu,8912836638,Biotechnology,2026-09-14,6.58
+STU00832,Vivaan,Iyer,Male,2002-06-10,vivaan.iyer.00832@student.example.edu,9934990837,Business Administration,2026-06-26,9.44
+STU00833,Ishaan,Rao,Female,1995-09-13,ishaan.rao.00833@student.example.edu,7611646876,Electronics,2023-11-26,8.13
+STU00834,Naina,Menon,Female,2008-05-07,naina.menon.00834@student.example.edu,9713401614,Civil Engineering,2025-09-03,8.91
+STU00835,Amit,Pillai,Female,2004-04-13,amit.pillai.00835@student.example.edu,8134832539,Business Administration,2022-06-27,9.39
+STU00836,Tara,Desai,Male,1999-11-06,tara.desai.00836@student.example.edu,7298447203,Business Administration,2024-12-11,5.88
+STU00837,Aditya,Agarwal,Female,1997-01-28,aditya.agarwal.00837@student.example.edu,8173230664,Physics,2024-06-27,5.12
+STU00838,Manav,Rao,Female,2005-11-04,manav.rao.00838@student.example.edu,7332980508,Electronics,2025-10-11,8.88
+STU00839,Reyansh,Desai,Other,2006-07-30,reyansh.desai.00839@student.example.edu,6881271916,Physics,2024-04-26,8.62
+STU00840,Dev,Pillai,Male,1997-08-06,dev.pillai.00840@student.example.edu,7335654591,Commerce,2022-01-09,9.66
+STU00841,Kabir,Khan,Female,1996-01-13,kabir.khan.00841@student.example.edu,8235864235,Civil Engineering,2022-07-31,8.83
+STU00842,Vivaan,Kulkarni,Male,1999-09-16,vivaan.kulkarni.00842@student.example.edu,6861379367,Civil Engineering,2023-10-20,5.96
+STU00843,Ishita,Khan,Male,1997-08-21,ishita.khan.00843@student.example.edu,6641327636,Information Technology,2023-07-13,5.79
+STU00844,Aarav,Menon,Male,1997-04-18,aarav.menon.00844@student.example.edu,8330143102,Business Administration,2023-02-28,6.75
+STU00845,Karan,Rao,Male,2001-05-09,karan.rao.00845@student.example.edu,7051515688,Civil Engineering,2025-03-21,5.86
+STU00846,Krish,Thomas,Female,2004-12-13,krish.thomas.00846@student.example.edu,6558663601,Computer Science,2022-04-14,5.14
+STU00847,Reyansh,Joshi,Female,2004-07-25,reyansh.joshi.00847@student.example.edu,6768726107,Commerce,2024-03-13,8.52
+STU00848,Tara,Menon,Female,2002-06-15,tara.menon.00848@student.example.edu,6851035458,Biotechnology,2026-08-02,8.56
+STU00849,Kabir,Bhatia,Male,2005-06-11,kabir.bhatia.00849@student.example.edu,6566056427,Physics,2025-08-16,5.46
+STU00850,Reyansh,Das,Female,2005-06-09,reyansh.das.00850@student.example.edu,6995119066,Electronics,2025-01-27,9.74
+STU00851,Krish,Singh,Male,2003-10-17,krish.singh.00851@student.example.edu,9004821901,Business Administration,2023-01-11,9.59
+STU00852,Amit,Das,Female,1996-06-19,amit.das.00852@student.example.edu,6484846239,Physics,2024-08-31,6.76
+STU00853,Aadhya,Patel,Male,2008-07-22,aadhya.patel.00853@student.example.edu,6547153061,Mathematics,2026-05-12,7.54
+STU00854,Reyansh,Khan,Male,1996-08-04,reyansh.khan.00854@student.example.edu,7297587456,Mathematics,2026-06-11,7.66
+STU00855,Dhruv,Malhotra,Female,2000-06-19,dhruv.malhotra.00855@student.example.edu,6682986933,Mathematics,2025-01-27,9.87
+STU00856,Ishaan,Khan,Female,2008-04-03,ishaan.khan.00856@student.example.edu,9368602873,Commerce,2026-06-18,9.9
+STU00857,Sneha,Chopra,Male,1998-11-18,sneha.chopra.00857@student.example.edu,8875932424,Commerce,2025-09-19,5.39
+STU00858,Zoya,Mehta,Male,2005-05-20,zoya.mehta.00858@student.example.edu,8384083537,Physics,2024-03-16,5.49
+STU00859,Ira,Patel,Male,1996-07-24,ira.patel.00859@student.example.edu,6467054653,Commerce,2025-05-10,8.43
+STU00860,Dev,Khan,Male,1996-05-18,dev.khan.00860@student.example.edu,6934635444,Commerce,2022-07-05,9.09
+STU00861,Aarav,Agarwal,Female,1998-05-07,aarav.agarwal.00861@student.example.edu,8281726390,Commerce,2024-07-16,6.46
+STU00862,Naina,Das,Female,2002-02-06,naina.das.00862@student.example.edu,8449318527,Civil Engineering,2023-09-06,8.97
+STU00863,Varun,Pillai,Other,2002-09-21,varun.pillai.00863@student.example.edu,8502793324,Biotechnology,2022-07-02,5.04
+STU00864,Maya,Jain,Female,2001-08-06,maya.jain.00864@student.example.edu,7585800252,Computer Science,2022-05-08,9.51
+STU00865,Aarav,Pillai,Male,2003-01-21,aarav.pillai.00865@student.example.edu,9699031318,Computer Science,2022-08-13,6.41
+STU00866,Priya,Malhotra,Male,2003-11-04,priya.malhotra.00866@student.example.edu,7366346378,Mathematics,2025-07-04,8.56
+STU00867,Dev,Malhotra,Male,1998-11-21,dev.malhotra.00867@student.example.edu,6597296237,Mathematics,2024-08-30,5.94
+STU00868,Riya,Desai,Female,2001-06-21,riya.desai.00868@student.example.edu,6539229515,Information Technology,2025-10-04,5.67
+STU00869,Vivaan,Rao,Male,2005-12-01,vivaan.rao.00869@student.example.edu,7875763024,Electronics,2026-08-09,9.87
+STU00870,Kabir,Rao,Male,2004-04-29,kabir.rao.00870@student.example.edu,7958628128,Commerce,2026-10-28,9.47
+STU00871,Varun,Menon,Female,2006-06-05,varun.menon.00871@student.example.edu,8371036817,Mathematics,2025-10-20,9.1
+STU00872,Nikhil,Kapoor,Female,2008-07-23,nikhil.kapoor.00872@student.example.edu,8482226946,Mechanical Engineering,2025-07-26,7.49
+STU00873,Manav,Singh,Female,2007-04-02,manav.singh.00873@student.example.edu,7576124271,Computer Science,2025-11-12,5.17
+STU00874,Naina,Mishra,Male,1997-07-16,naina.mishra.00874@student.example.edu,8068168092,Information Technology,2025-04-03,9.81
+STU00875,Diya,Ghosh,Male,2001-04-08,diya.ghosh.00875@student.example.edu,8220281423,Commerce,2024-08-10,5.39
+STU00876,Kabir,Kapoor,Female,1996-10-01,kabir.kapoor.00876@student.example.edu,8721667797,Commerce,2025-11-01,7.7
+STU00877,Pooja,Menon,Female,2002-09-15,pooja.menon.00877@student.example.edu,9343748592,Physics,2024-12-31,5.05
+STU00878,Manav,Thomas,Female,2002-06-08,manav.thomas.00878@student.example.edu,7515756391,Civil Engineering,2024-05-12,9.8
+STU00879,Neha,Nair,Female,2008-05-27,neha.nair.00879@student.example.edu,9122319712,Civil Engineering,2026-04-03,8.93
+STU00880,Arjun,Saxena,Female,1998-10-17,arjun.saxena.00880@student.example.edu,6221705700,Civil Engineering,2025-03-19,8.28
+STU00881,Krish,Sharma,Female,1996-11-06,krish.sharma.00881@student.example.edu,8171518770,Civil Engineering,2022-09-17,5.38
+STU00882,Rahul,Rao,Male,2001-03-04,rahul.rao.00882@student.example.edu,7103616435,Information Technology,2026-10-23,5.07
+STU00883,Anika,Nair,Male,1998-05-23,anika.nair.00883@student.example.edu,7918360758,Electronics,2025-09-11,6.85
+STU00884,Rahul,Chauhan,Male,2005-11-16,rahul.chauhan.00884@student.example.edu,9433276612,Computer Science,2023-11-21,7.64
+STU00885,Sneha,Gupta,Male,2008-05-10,sneha.gupta.00885@student.example.edu,9597525665,Mathematics,2025-10-14,7.48
+STU00886,Dev,Kapoor,Male,1998-10-02,dev.kapoor.00886@student.example.edu,8481449107,Business Administration,2023-03-08,8.67
+STU00887,Arjun,Saxena,Female,1997-08-08,arjun.saxena.00887@student.example.edu,6719838233,Physics,2022-04-18,7.32
+STU00888,Pooja,Mishra,Male,2006-12-11,pooja.mishra.00888@student.example.edu,7631231993,Mathematics,2025-04-02,8.42
+STU00889,Aisha,Singh,Female,2004-10-01,aisha.singh.00889@student.example.edu,7240353129,Physics,2022-01-25,9.64
+STU00890,Dev,Sinha,Female,2006-11-22,dev.sinha.00890@student.example.edu,6418176555,Business Administration,2024-02-14,9.59
+STU00891,Varun,Menon,Male,2001-02-11,varun.menon.00891@student.example.edu,7161041845,Information Technology,2023-11-18,6.34
+STU00892,Rahul,Saxena,Male,2005-05-05,rahul.saxena.00892@student.example.edu,8900353279,Commerce,2026-09-04,8.75
+STU00893,Meera,Bansal,Female,1999-01-13,meera.bansal.00893@student.example.edu,8351978047,Computer Science,2023-10-04,5.05
+STU00894,Ishaan,Sharma,Female,2006-10-12,ishaan.sharma.00894@student.example.edu,8944198153,Mechanical Engineering,2024-05-11,7.23
+STU00895,Neha,Singh,Female,1995-07-14,neha.singh.00895@student.example.edu,6394884830,Commerce,2025-06-22,5.28
+STU00896,Saanvi,Menon,Male,1997-09-09,saanvi.menon.00896@student.example.edu,9678385314,Mathematics,2022-06-26,8.02
+STU00897,Naina,Chauhan,Male,1997-06-27,naina.chauhan.00897@student.example.edu,6791403539,Physics,2025-11-25,6.27
+STU00898,Ishaan,Saxena,Female,2001-03-14,ishaan.saxena.00898@student.example.edu,7833879716,Business Administration,2026-04-25,8.46
+STU00899,Rahul,Nair,Male,2001-03-21,rahul.nair.00899@student.example.edu,6267951754,Business Administration,2026-05-11,6.91
+STU00900,Arjun,Singh,Male,2000-12-08,arjun.singh.00900@student.example.edu,7892254518,Mechanical Engineering,2022-12-31,5.35
+STU00901,Krish,Joshi,Female,2006-01-13,krish.joshi.00901@student.example.edu,6617928099,Mathematics,2023-08-23,7.7
+STU00902,Saanvi,Menon,Male,2004-11-26,saanvi.menon.00902@student.example.edu,7112380464,Information Technology,2026-01-05,5.52
+STU00903,Ishaan,Kulkarni,Male,2004-12-31,ishaan.kulkarni.00903@student.example.edu,9850491393,Computer Science,2022-02-08,7.49
+STU00904,Aditya,Sinha,Female,1998-05-26,aditya.sinha.00904@student.example.edu,7416612771,Commerce,2025-12-04,9.52
+STU00905,Aarav,Bansal,Male,2006-01-02,aarav.bansal.00905@student.example.edu,7872853413,Information Technology,2025-09-07,7.02
+STU00906,Ishita,Kapoor,Female,2005-10-24,ishita.kapoor.00906@student.example.edu,8436293936,Business Administration,2023-06-29,7.68
+STU00907,Sneha,Sinha,Female,1996-03-28,sneha.sinha.00907@student.example.edu,8779163450,Biotechnology,2025-07-18,5.45
+STU00908,Sneha,Gupta,Male,2001-07-03,sneha.gupta.00908@student.example.edu,6872395778,Computer Science,2025-08-19,5.88
+STU00909,Dev,Sinha,Female,2003-10-01,dev.sinha.00909@student.example.edu,8708479630,Physics,2022-08-07,8.44
+STU00910,Kabir,Thomas,Male,1999-04-02,kabir.thomas.00910@student.example.edu,6153323006,Commerce,2022-10-14,5.97
+STU00911,Priya,Mishra,Female,2007-02-15,priya.mishra.00911@student.example.edu,7321694065,Physics,2025-12-04,7.5
+STU00912,Vivaan,Verma,Female,2002-07-29,vivaan.verma.00912@student.example.edu,9096722936,Information Technology,2026-06-02,5.21
+STU00913,Saanvi,Chauhan,Male,2006-09-25,saanvi.chauhan.00913@student.example.edu,8912322067,Biotechnology,2026-04-20,9.35
+STU00914,Diya,Ghosh,Male,1996-08-13,diya.ghosh.00914@student.example.edu,9158775469,Computer Science,2022-03-17,5.71
+STU00915,Aisha,Bhatia,Male,1996-01-11,aisha.bhatia.00915@student.example.edu,9012046858,Computer Science,2023-05-13,8.24
+STU00916,Ira,Saxena,Female,2001-11-22,ira.saxena.00916@student.example.edu,9408903107,Commerce,2026-08-08,5.49
+STU00917,Aadhya,Desai,Male,1997-05-21,aadhya.desai.00917@student.example.edu,8135215050,Commerce,2022-08-22,7.97
+STU00918,Kavya,Gupta,Male,2004-07-23,kavya.gupta.00918@student.example.edu,9485456278,Mathematics,2023-11-22,9.18
+STU00919,Amit,Mehta,Male,2007-12-02,amit.mehta.00919@student.example.edu,6589825310,Mechanical Engineering,2026-06-12,6.61
+STU00920,Aditya,Kulkarni,Female,1996-06-01,aditya.kulkarni.00920@student.example.edu,7176363031,Mathematics,2022-09-05,5.71
+STU00921,Aadhya,Pillai,Female,1998-09-13,aadhya.pillai.00921@student.example.edu,7046445603,Computer Science,2024-06-17,9.63
+STU00922,Ananya,Mehta,Male,2008-09-26,ananya.mehta.00922@student.example.edu,9340031305,Physics,2026-04-06,5.79
+STU00923,Kabir,Sharma,Female,1996-12-31,kabir.sharma.00923@student.example.edu,8799269793,Civil Engineering,2025-12-18,7.97
+STU00924,Simran,Pillai,Male,2005-09-04,simran.pillai.00924@student.example.edu,6544998804,Civil Engineering,2026-07-22,6.03
+STU00925,Sakshi,Das,Female,1998-11-30,sakshi.das.00925@student.example.edu,8970715367,Electronics,2025-06-04,5.19
+STU00926,Zoya,Menon,Male,2001-10-03,zoya.menon.00926@student.example.edu,7798671637,Mechanical Engineering,2023-12-14,5.02
+STU00927,Meera,Mehta,Other,1997-02-22,meera.mehta.00927@student.example.edu,7554354263,Biotechnology,2025-06-21,9.31
+STU00928,Manav,Kapoor,Female,1999-09-01,manav.kapoor.00928@student.example.edu,6227929714,Electronics,2023-07-21,5.97
+STU00929,Aisha,Mishra,Female,1995-12-20,aisha.mishra.00929@student.example.edu,8769656194,Mechanical Engineering,2022-04-21,6.82
+STU00930,Varun,Singh,Female,2005-03-01,varun.singh.00930@student.example.edu,6448485198,Biotechnology,2022-05-28,8.7
+STU00931,Ira,Nair,Male,2005-11-17,ira.nair.00931@student.example.edu,6498495745,Mechanical Engineering,2025-10-06,5.35
+STU00932,Tara,Kulkarni,Male,2004-05-25,tara.kulkarni.00932@student.example.edu,9208713163,Business Administration,2023-02-12,8.38
+STU00933,Kavya,Agarwal,Female,2000-02-09,kavya.agarwal.00933@student.example.edu,7018415610,Mechanical Engineering,2022-07-20,8.69
+STU00934,Dev,Thomas,Female,2005-07-25,dev.thomas.00934@student.example.edu,8080515301,Mathematics,2025-11-04,5.27
+STU00935,Diya,Iyer,Male,2005-03-16,diya.iyer.00935@student.example.edu,7663571006,Physics,2023-03-15,6.87
+STU00936,Meera,Saxena,Female,2001-01-18,meera.saxena.00936@student.example.edu,7442642321,Commerce,2023-02-19,5.64
+STU00937,Arjun,Singh,Female,2005-06-10,arjun.singh.00937@student.example.edu,7796257670,Business Administration,2025-01-04,5.86
+STU00938,Kavya,Thomas,Female,1998-07-08,kavya.thomas.00938@student.example.edu,9412632398,Commerce,2026-06-05,8.19
+STU00939,Aadhya,Kulkarni,Male,2000-02-25,aadhya.kulkarni.00939@student.example.edu,7768221462,Physics,2022-06-27,9.28
+STU00940,Saanvi,Kulkarni,Female,2005-05-18,saanvi.kulkarni.00940@student.example.edu,6062293591,Mechanical Engineering,2023-12-10,8.65
+STU00941,Priya,Khan,Female,1999-12-27,priya.khan.00941@student.example.edu,6639819990,Computer Science,2025-04-26,9.57
+STU00942,Simran,Verma,Female,2005-07-22,simran.verma.00942@student.example.edu,9301139304,Mathematics,2026-09-01,7.52
+STU00943,Sakshi,Joshi,Female,1997-03-13,sakshi.joshi.00943@student.example.edu,8127233070,Biotechnology,2024-07-15,6.2
+STU00944,Aarav,Pillai,Male,1999-11-21,aarav.pillai.00944@student.example.edu,7539340680,Information Technology,2022-09-29,6.48
+STU00945,Vivaan,Mishra,Male,1998-08-18,vivaan.mishra.00945@student.example.edu,7972604762,Commerce,2025-12-11,9.29
+STU00946,Vivaan,Das,Female,1998-02-09,vivaan.das.00946@student.example.edu,7741009563,Business Administration,2025-12-11,5.92
+STU00947,Yash,Pillai,Male,1996-08-02,yash.pillai.00947@student.example.edu,9837271689,Biotechnology,2024-02-28,8.45
+STU00948,Aditya,Patel,Female,2001-01-19,aditya.patel.00948@student.example.edu,8630672799,Mechanical Engineering,2025-11-30,7.71
+STU00949,Kabir,Menon,Male,1996-03-25,kabir.menon.00949@student.example.edu,9908437910,Computer Science,2024-11-20,8.37
+STU00950,Rohan,Joshi,Female,1995-12-01,rohan.joshi.00950@student.example.edu,7573817755,Biotechnology,2024-01-19,5.88
+STU00951,Ishaan,Chopra,Male,1999-08-05,ishaan.chopra.00951@student.example.edu,7438512030,Information Technology,2022-10-11,6.19
+STU00952,Aisha,Ghosh,Male,2008-01-05,aisha.ghosh.00952@student.example.edu,9234855539,Mechanical Engineering,2025-08-06,8.73
+STU00953,Amit,Reddy,Male,2006-04-18,amit.reddy.00953@student.example.edu,7190330168,Business Administration,2025-08-31,5.27
+STU00954,Nikhil,Das,Female,2006-10-24,nikhil.das.00954@student.example.edu,8019338363,Biotechnology,2024-07-01,8.55
+STU00955,Neha,Das,Male,1996-06-21,neha.das.00955@student.example.edu,9830695106,Information Technology,2023-01-21,9.42
+STU00956,Kabir,Joshi,Male,2001-06-20,kabir.joshi.00956@student.example.edu,6469718772,Information Technology,2022-06-07,5.82
+STU00957,Diya,Mishra,Female,1999-08-01,diya.mishra.00957@student.example.edu,8694130765,Mathematics,2024-12-02,5.11
+STU00958,Ishita,Bhatia,Female,2002-10-11,ishita.bhatia.00958@student.example.edu,7906364408,Computer Science,2024-05-10,8.69
+STU00959,Neha,Iyer,Female,2000-03-18,neha.iyer.00959@student.example.edu,8231752989,Mathematics,2026-09-06,8.22
+STU00960,Dhruv,Khan,Male,2002-04-27,dhruv.khan.00960@student.example.edu,8548450006,Biotechnology,2024-09-22,8.33
+STU00961,Arnav,Das,Female,2007-09-21,arnav.das.00961@student.example.edu,9858091464,Electronics,2025-02-02,8.95
+STU00962,Rahul,Kapoor,Female,2001-06-18,rahul.kapoor.00962@student.example.edu,9631453750,Business Administration,2026-04-26,5.24
+STU00963,Neha,Das,Male,1998-08-10,neha.das.00963@student.example.edu,8299167668,Electronics,2025-12-28,6.43
+STU00964,Diya,Nair,Female,1995-12-04,diya.nair.00964@student.example.edu,8467566824,Civil Engineering,2023-10-11,5.63
+STU00965,Riya,Nair,Female,1995-10-12,riya.nair.00965@student.example.edu,7361263098,Electronics,2025-09-25,9.89
+STU00966,Riya,Das,Male,1998-08-24,riya.das.00966@student.example.edu,7295189353,Computer Science,2024-12-28,5.61
+STU00967,Maya,Bhatia,Male,1998-04-05,maya.bhatia.00967@student.example.edu,9984919149,Computer Science,2024-07-27,6.6
+STU00968,Ishita,Bansal,Female,2001-08-18,ishita.bansal.00968@student.example.edu,9848193865,Commerce,2024-08-28,6.45
+STU00969,Diya,Chauhan,Male,2004-11-30,diya.chauhan.00969@student.example.edu,8959863754,Physics,2023-11-25,5.56
+STU00970,Aditya,Rao,Male,1997-08-15,aditya.rao.00970@student.example.edu,6106496266,Mechanical Engineering,2023-09-23,7.01
+STU00971,Tara,Reddy,Female,1996-03-26,tara.reddy.00971@student.example.edu,8754416885,Biotechnology,2025-05-30,5.98
+STU00972,Kavya,Chauhan,Male,2001-03-26,kavya.chauhan.00972@student.example.edu,6096845709,Physics,2023-02-05,5.42
+STU00973,Kabir,Bansal,Female,2005-12-31,kabir.bansal.00973@student.example.edu,8590603471,Computer Science,2024-10-11,8.03
+STU00974,Riya,Joshi,Female,2004-08-04,riya.joshi.00974@student.example.edu,7658341072,Civil Engineering,2024-01-28,6.86
+STU00975,Nikhil,Reddy,Female,2004-12-29,nikhil.reddy.00975@student.example.edu,6376233267,Physics,2025-02-22,6.08
+STU00976,Simran,Chauhan,Female,1998-09-03,simran.chauhan.00976@student.example.edu,9126739046,Mathematics,2026-07-09,9.85
+STU00977,Simran,Rao,Male,2008-05-30,simran.rao.00977@student.example.edu,6616926023,Physics,2025-08-26,6.04
+STU00978,Sakshi,Khan,Female,2008-03-31,sakshi.khan.00978@student.example.edu,6379882490,Civil Engineering,2026-04-19,5.03
+STU00979,Simran,Nair,Male,2007-09-27,simran.nair.00979@student.example.edu,9929345815,Electronics,2026-11-08,5.68
+STU00980,Dev,Patel,Male,1995-12-12,dev.patel.00980@student.example.edu,9548709440,Commerce,2026-08-13,6.51
+STU00981,Pooja,Mishra,Male,2005-05-24,pooja.mishra.00981@student.example.edu,6115276968,Electronics,2023-08-26,8.96
+STU00982,Rahul,Patel,Male,2005-08-07,rahul.patel.00982@student.example.edu,8808105335,Civil Engineering,2023-04-18,8.33
+STU00983,Simran,Nair,Male,2000-06-27,simran.nair.00983@student.example.edu,6512624365,Physics,2022-02-28,8.82
+STU00984,Ishaan,Menon,Male,2008-01-13,ishaan.menon.00984@student.example.edu,8429124352,Civil Engineering,2026-05-19,7.18
+STU00985,Aisha,Pillai,Male,2003-05-16,aisha.pillai.00985@student.example.edu,9148027496,Civil Engineering,2024-11-15,7.88
+STU00986,Aadhya,Kulkarni,Female,2002-03-03,aadhya.kulkarni.00986@student.example.edu,9772343920,Business Administration,2024-08-02,8.47
+STU00987,Aadhya,Verma,Female,2004-05-29,aadhya.verma.00987@student.example.edu,9917459493,Computer Science,2025-07-27,9.78
+STU00988,Neha,Patel,Male,1996-09-21,neha.patel.00988@student.example.edu,6832428352,Electronics,2024-11-18,8.83
+STU00989,Reyansh,Menon,Male,2007-03-13,reyansh.menon.00989@student.example.edu,9747114751,Civil Engineering,2025-02-05,6.58
+STU00990,Karan,Sinha,Male,2003-02-17,karan.sinha.00990@student.example.edu,8295317821,Electronics,2022-07-16,7.9
+STU00991,Aarav,Rao,Male,2003-05-14,aarav.rao.00991@student.example.edu,8082625440,Electronics,2026-05-14,7.06
+STU00992,Reyansh,Iyer,Female,1999-12-17,reyansh.iyer.00992@student.example.edu,6809243907,Biotechnology,2026-08-31,8.98
+STU00993,Krish,Pillai,Male,2006-10-16,krish.pillai.00993@student.example.edu,9060366602,Information Technology,2026-10-09,7.76
+STU00994,Simran,Das,Male,1997-08-12,simran.das.00994@student.example.edu,6563637820,Physics,2026-08-04,9.62
+STU00995,Nikhil,Patel,Male,1998-02-12,nikhil.patel.00995@student.example.edu,7898108832,Commerce,2026-08-01,9.45
+STU00996,Sakshi,Agarwal,Male,1998-11-11,sakshi.agarwal.00996@student.example.edu,7308608938,Information Technology,2025-12-24,5.14
+STU00997,Kavya,Rao,Male,1998-03-12,kavya.rao.00997@student.example.edu,6973129790,Mechanical Engineering,2025-11-10,6.54
+STU00998,Ananya,Gupta,Female,1997-07-04,ananya.gupta.00998@student.example.edu,6080772905,Mathematics,2022-06-09,8.87
+STU00999,Aditya,Iyer,Female,2006-07-08,aditya.iyer.00999@student.example.edu,6254542263,Civil Engineering,2026-11-03,7.35
+STU01000,Aditya,Gupta,Female,1995-03-26,aditya.gupta.01000@student.example.edu,6414479793,Commerce,2026-03-26,8.91
+STU01001,Saanvi,Kulkarni,Male,1999-02-22,saanvi.kulkarni.01001@student.example.edu,7509825605,Electronics,2025-10-05,5.15
+STU01002,Karan,Kulkarni,Female,1998-08-08,karan.kulkarni.01002@student.example.edu,8150208433,Commerce,2026-10-18,8.9
+STU01003,Priya,Bansal,Male,1997-03-22,priya.bansal.01003@student.example.edu,8483065233,Biotechnology,2026-08-06,8.82
+STU01004,Saanvi,Pillai,Female,2001-04-27,saanvi.pillai.01004@student.example.edu,9872601458,Computer Science,2022-12-18,8.77
+STU01005,Reyansh,Bhatia,Female,2006-04-23,reyansh.bhatia.01005@student.example.edu,7573946716,Electronics,2025-12-20,8.49
+STU01006,Tara,Sinha,Male,1999-01-21,tara.sinha.01006@student.example.edu,7523950345,Mathematics,2026-09-06,9.91
+STU01007,Saanvi,Bansal,Female,1997-07-13,saanvi.bansal.01007@student.example.edu,7349823507,Information Technology,2026-04-09,5.62
+STU01008,Sakshi,Rao,Male,2003-02-07,sakshi.rao.01008@student.example.edu,7238115647,Computer Science,2025-12-14,7.79
+STU01009,Kabir,Khan,Male,2003-08-19,kabir.khan.01009@student.example.edu,7962567118,Civil Engineering,2023-08-04,8
+STU01010,Tara,Kapoor,Male,2001-07-08,tara.kapoor.01010@student.example.edu,7838081369,Information Technology,2026-10-18,5.94
+STU01011,Aisha,Sinha,Female,1995-04-15,aisha.sinha.01011@student.example.edu,8111613686,Mathematics,2025-10-12,8.36
+STU01012,Tara,Bansal,Male,1996-11-27,tara.bansal.01012@student.example.edu,6615758990,Commerce,2022-09-02,6.97
+STU01013,Reyansh,Ghosh,Male,1998-10-14,reyansh.ghosh.01013@student.example.edu,7562122502,Business Administration,2022-05-13,9.88
+STU01014,Meera,Menon,Male,2004-01-25,meera.menon.01014@student.example.edu,7000167474,Physics,2022-09-09,9.19
+STU01015,Karan,Agarwal,Male,2008-01-20,karan.agarwal.01015@student.example.edu,7172409207,Mathematics,2026-09-18,8.78
+STU01016,Nikhil,Mishra,Male,2004-01-27,nikhil.mishra.01016@student.example.edu,8196508611,Physics,2024-09-19,6.39
+STU01017,Reyansh,Mehta,Female,2006-02-25,reyansh.mehta.01017@student.example.edu,8698833021,Computer Science,2024-06-11,9.71
+STU01018,Reyansh,Ghosh,Female,1996-07-12,reyansh.ghosh.01018@student.example.edu,8912449281,Electronics,2024-10-17,5.13
+STU01019,Dev,Menon,Male,1998-06-05,dev.menon.01019@student.example.edu,8671326885,Information Technology,2023-09-13,8.12
+STU01020,Sakshi,Agarwal,Male,2005-06-14,sakshi.agarwal.01020@student.example.edu,7260843171,Physics,2023-08-01,8.31
+STU01021,Manav,Singh,Male,2007-02-15,manav.singh.01021@student.example.edu,6075893742,Computer Science,2025-08-27,9.76
+STU01022,Varun,Thomas,Male,2003-08-09,varun.thomas.01022@student.example.edu,7351021444,Physics,2024-07-10,9.26
+STU01023,Yash,Verma,Female,2007-06-27,yash.verma.01023@student.example.edu,9695221058,Electronics,2026-05-02,8.9
+STU01024,Zoya,Malhotra,Female,2003-09-23,zoya.malhotra.01024@student.example.edu,9281402873,Physics,2024-09-25,5.55
+STU01025,Arnav,Sinha,Male,2005-07-15,arnav.sinha.01025@student.example.edu,8414868603,Biotechnology,2025-03-15,9.27
+STU01026,Arjun,Joshi,Female,2008-04-03,arjun.joshi.01026@student.example.edu,8649735743,Civil Engineering,2026-04-24,8.38
+STU01027,Amit,Verma,Female,1996-01-05,amit.verma.01027@student.example.edu,9594604802,Commerce,2022-09-20,6.83
+STU01028,Vivaan,Agarwal,Male,2002-08-27,vivaan.agarwal.01028@student.example.edu,6418115287,Business Administration,2024-02-19,7.14
+STU01029,Simran,Reddy,Female,2000-06-23,simran.reddy.01029@student.example.edu,7007694189,Commerce,2023-05-23,8.24
+STU01030,Kabir,Bhatia,Male,2001-11-02,kabir.bhatia.01030@student.example.edu,7449956300,Biotechnology,2022-08-23,5.85
+STU01031,Amit,Verma,Female,2004-06-22,amit.verma.01031@student.example.edu,8210876606,Civil Engineering,2025-03-09,9.51
+STU01032,Vivaan,Pillai,Female,1995-07-02,vivaan.pillai.01032@student.example.edu,7622370616,Business Administration,2023-10-11,7.85
+STU01033,Naina,Mehta,Male,1997-03-30,naina.mehta.01033@student.example.edu,8899580938,Physics,2025-11-15,6.03
+STU01034,Manav,Chauhan,Male,2002-08-13,manav.chauhan.01034@student.example.edu,8640665603,Mathematics,2022-12-08,6.5
+STU01035,Meera,Mishra,Male,1996-09-09,meera.mishra.01035@student.example.edu,9652157988,Civil Engineering,2026-09-18,7.68
+STU01036,Rahul,Verma,Female,2007-11-12,rahul.verma.01036@student.example.edu,9455743663,Information Technology,2025-12-27,6.13
+STU01037,Dhruv,Mehta,Male,2001-02-17,dhruv.mehta.01037@student.example.edu,8432790994,Physics,2022-05-18,9.01
+STU01038,Varun,Iyer,Female,1996-09-20,varun.iyer.01038@student.example.edu,9537931863,Civil Engineering,2025-08-27,6.51
+STU01039,Varun,Sinha,Male,1999-06-28,varun.sinha.01039@student.example.edu,7727869461,Biotechnology,2024-04-28,6.26
+STU01040,Yash,Sinha,Male,1999-01-19,yash.sinha.01040@student.example.edu,8696569154,Electronics,2022-02-08,8.52
+STU01041,Naina,Mishra,Female,2005-06-25,naina.mishra.01041@student.example.edu,8739872850,Commerce,2023-12-25,7.66
+STU01042,Varun,Bhatia,Male,1996-05-05,varun.bhatia.01042@student.example.edu,6861776710,Electronics,2024-12-05,6.82
+STU01043,Priya,Rao,Male,2001-09-25,priya.rao.01043@student.example.edu,7869980594,Information Technology,2026-09-25,7.05
+STU01044,Saanvi,Jain,Female,2001-06-09,saanvi.jain.01044@student.example.edu,6689704353,Commerce,2025-08-16,6.28
+STU01045,Priya,Joshi,Female,1998-05-13,priya.joshi.01045@student.example.edu,6118988531,Civil Engineering,2023-01-29,6.23
+STU01046,Yash,Mishra,Male,2004-10-12,yash.mishra.01046@student.example.edu,8778509037,Mechanical Engineering,2024-05-14,9.53
+STU01047,Aadhya,Singh,Female,2000-10-17,aadhya.singh.01047@student.example.edu,9451170219,Biotechnology,2026-06-06,6.39
+STU01048,Ira,Saxena,Male,2005-11-24,ira.saxena.01048@student.example.edu,6237628826,Information Technology,2023-01-03,9.3
+STU01049,Amit,Menon,Female,1996-06-04,amit.menon.01049@student.example.edu,9851611772,Information Technology,2024-04-13,6.82
+STU01050,Maya,Desai,Male,1998-02-25,maya.desai.01050@student.example.edu,6480745842,Biotechnology,2023-04-29,7.85
+STU01051,Rohan,Bansal,Male,2008-01-07,rohan.bansal.01051@student.example.edu,7081507361,Information Technology,2026-06-27,7.48
+STU01052,Priya,Menon,Female,2002-01-11,priya.menon.01052@student.example.edu,9574848002,Mathematics,2023-11-06,7.92
+STU01053,Priya,Bhatia,Female,1998-03-27,priya.bhatia.01053@student.example.edu,6752281823,Civil Engineering,2022-08-07,6.07
+STU01054,Tara,Malhotra,Female,2008-03-22,tara.malhotra.01054@student.example.edu,8106074066,Information Technology,2025-05-18,7.67
+STU01055,Amit,Chopra,Female,2000-07-11,amit.chopra.01055@student.example.edu,9777138293,Electronics,2023-07-23,8.92
+STU01056,Riya,Mishra,Male,2001-11-29,riya.mishra.01056@student.example.edu,8771961511,Commerce,2022-02-13,9.83
+STU01057,Aditya,Desai,Male,1996-03-23,aditya.desai.01057@student.example.edu,9940449047,Mechanical Engineering,2025-11-15,8.94
+STU01058,Rahul,Chopra,Female,2003-02-20,rahul.chopra.01058@student.example.edu,8943119201,Mechanical Engineering,2026-07-22,5.61
+STU01059,Tara,Joshi,Female,2003-10-25,tara.joshi.01059@student.example.edu,7292304779,Mechanical Engineering,2023-06-08,5.45
+STU01060,Pooja,Iyer,Male,1998-08-05,pooja.iyer.01060@student.example.edu,8711639209,Mathematics,2024-06-17,6.59
+STU01061,Aditya,Singh,Male,2006-01-10,aditya.singh.01061@student.example.edu,9165141634,Business Administration,2025-08-31,7.06
+STU01062,Varun,Thomas,Male,1997-04-02,varun.thomas.01062@student.example.edu,6688669432,Biotechnology,2026-08-16,8.49
+STU01063,Ishaan,Reddy,Female,2007-04-14,ishaan.reddy.01063@student.example.edu,7403459353,Computer Science,2026-05-08,7.27
+STU01064,Arjun,Saxena,Male,2004-12-11,arjun.saxena.01064@student.example.edu,8753498424,Mathematics,2026-06-09,5.68
+STU01065,Meera,Saxena,Female,2007-12-01,meera.saxena.01065@student.example.edu,6476003514,Biotechnology,2025-02-22,5.79
+STU01066,Ananya,Jain,Male,2004-03-15,ananya.jain.01066@student.example.edu,7371808827,Electronics,2026-06-12,7.26
+STU01067,Rahul,Nair,Male,2002-05-07,rahul.nair.01067@student.example.edu,7210310334,Mathematics,2026-06-26,5.99
+STU01068,Riya,Nair,Female,2003-06-19,riya.nair.01068@student.example.edu,9798217526,Computer Science,2026-09-06,7.85
+STU01069,Vivaan,Bhatia,Male,2008-09-22,vivaan.bhatia.01069@student.example.edu,6982290133,Physics,2026-08-08,9.53
+STU01070,Meera,Singh,Male,1998-10-14,meera.singh.01070@student.example.edu,7722431820,Commerce,2022-04-12,8.09
+STU01071,Rahul,Rao,Female,2003-04-03,rahul.rao.01071@student.example.edu,8436289709,Biotechnology,2022-12-15,5.59
+STU01072,Varun,Agarwal,Male,2005-03-05,varun.agarwal.01072@student.example.edu,8893133105,Mechanical Engineering,2026-10-24,7.47
+STU01073,Saanvi,Iyer,Male,2000-12-20,saanvi.iyer.01073@student.example.edu,9205948393,Electronics,2023-08-13,7.47
+STU01074,Varun,Jain,Female,1999-11-01,varun.jain.01074@student.example.edu,7215335058,Mechanical Engineering,2026-08-15,8.63
+STU01075,Simran,Nair,Female,1998-04-10,simran.nair.01075@student.example.edu,7246369258,Mechanical Engineering,2022-02-28,9.88
+STU01076,Krish,Das,Male,2003-04-17,krish.das.01076@student.example.edu,8938904748,Information Technology,2025-04-08,8.24
+STU01077,Aarav,Mishra,Female,2002-04-02,aarav.mishra.01077@student.example.edu,7707484488,Mathematics,2025-11-20,8.43
+STU01078,Varun,Ghosh,Male,1996-08-21,varun.ghosh.01078@student.example.edu,8392296673,Business Administration,2022-07-15,5.29
+STU01079,Priya,Mishra,Male,2008-08-07,priya.mishra.01079@student.example.edu,9445631097,Computer Science,2026-07-16,7.99
+STU01080,Aarav,Singh,Male,2003-07-18,aarav.singh.01080@student.example.edu,7695209898,Electronics,2023-09-12,8.36
+STU01081,Arnav,Verma,Male,2000-11-02,arnav.verma.01081@student.example.edu,8163575681,Business Administration,2022-12-14,7.46
+STU01082,Yash,Rao,Female,2006-11-24,yash.rao.01082@student.example.edu,6609008040,Business Administration,2026-04-28,6.3
+STU01083,Aditya,Rao,Male,2001-04-20,aditya.rao.01083@student.example.edu,7548731742,Civil Engineering,2026-03-12,9.63
+STU01084,Rahul,Menon,Male,2000-11-30,rahul.menon.01084@student.example.edu,7344369085,Electronics,2024-11-24,7.18
+STU01085,Amit,Ghosh,Other,1998-05-24,amit.ghosh.01085@student.example.edu,9663751667,Physics,2025-02-12,9.61
+STU01086,Arjun,Iyer,Female,2000-02-27,arjun.iyer.01086@student.example.edu,6154027191,Electronics,2023-01-11,7.35
+STU01087,Yash,Malhotra,Female,2006-02-06,yash.malhotra.01087@student.example.edu,7896312622,Biotechnology,2023-04-30,6.78
+STU01088,Zoya,Das,Male,1998-04-27,zoya.das.01088@student.example.edu,7501539056,Civil Engineering,2022-09-11,5.47
+STU01089,Ira,Desai,Female,2006-05-30,ira.desai.01089@student.example.edu,8419129100,Commerce,2024-12-08,9.45
+STU01090,Saanvi,Kulkarni,Other,1995-02-03,saanvi.kulkarni.01090@student.example.edu,9293585490,Mathematics,2024-12-13,7.85
+STU01091,Ishaan,Kapoor,Male,1997-02-11,ishaan.kapoor.01091@student.example.edu,6111506668,Information Technology,2023-11-05,6.42
+STU01092,Maya,Reddy,Male,1997-05-18,maya.reddy.01092@student.example.edu,7389586583,Information Technology,2026-09-11,5.77
+STU01093,Yash,Desai,Male,2005-10-05,yash.desai.01093@student.example.edu,8698771618,Commerce,2025-04-21,9.78
+STU01094,Aarav,Khan,Male,2005-02-28,aarav.khan.01094@student.example.edu,9141962771,Commerce,2023-12-25,10
+STU01095,Ananya,Iyer,Male,2001-05-06,ananya.iyer.01095@student.example.edu,9428015166,Information Technology,2023-10-24,5.28
+STU01096,Arnav,Menon,Female,2003-12-12,arnav.menon.01096@student.example.edu,6764550571,Mathematics,2023-06-07,6.2
+STU01097,Kabir,Sharma,Male,1998-08-27,kabir.sharma.01097@student.example.edu,9347894979,Electronics,2024-03-06,7.01
+STU01098,Rohan,Patel,Male,2004-09-11,rohan.patel.01098@student.example.edu,9463260607,Commerce,2026-02-16,9.61
+STU01099,Ananya,Reddy,Male,2003-03-30,ananya.reddy.01099@student.example.edu,6858440538,Mathematics,2024-11-15,7.45
+STU01100,Aisha,Singh,Male,2004-06-27,aisha.singh.01100@student.example.edu,9249102562,Business Administration,2022-07-04,7.11
+STU01101,Krish,Nair,Female,2004-07-21,krish.nair.01101@student.example.edu,6173680280,Physics,2022-07-10,7.57
+STU01102,Kavya,Saxena,Male,1998-06-24,kavya.saxena.01102@student.example.edu,8264644827,Biotechnology,2024-10-11,8.15
+STU01103,Kabir,Patel,Female,1996-10-10,kabir.patel.01103@student.example.edu,8051325189,Electronics,2026-06-30,6.5
+STU01104,Pooja,Desai,Female,2004-08-04,pooja.desai.01104@student.example.edu,8441842200,Information Technology,2023-08-29,5.24
+STU01105,Aditya,Bansal,Female,2004-07-12,aditya.bansal.01105@student.example.edu,6405807234,Commerce,2024-04-25,7.32
+STU01106,Rahul,Reddy,Female,1996-10-31,rahul.reddy.01106@student.example.edu,8162277965,Physics,2026-04-24,5.08
+STU01107,Ira,Chauhan,Female,2003-10-25,ira.chauhan.01107@student.example.edu,6357730247,Civil Engineering,2022-04-03,7.08
